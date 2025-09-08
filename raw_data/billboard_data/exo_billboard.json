@@ -1,0 +1,19 @@
+{
+    "name": "EXO",
+    "billboard_data": [
+        {
+            "song_name": "Don't Fight The Feeling",
+            "debut_date": "6/19/21",
+            "peak_position": 64,
+            "peak_date": "6/19/21",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "Cream Soda",
+            "debut_date": "7/22/23",
+            "peak_position": 86,
+            "peak_date": "7/29/23",
+            "weeks_on_chart": 3
+        }
+    ]
+}

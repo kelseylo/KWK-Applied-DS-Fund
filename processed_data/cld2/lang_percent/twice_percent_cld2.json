@@ -1,0 +1,4480 @@
+[
+    {
+        "title": "1, 3, 2",
+        "lang_comp_sorted": {
+            "UNKNOWN": 427,
+            "ENGLISH": 141,
+            "KOREAN": 40
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.702,
+            "ENGLISH": 0.232,
+            "KOREAN": 0.066
+        }
+    },
+    {
+        "title": "1 TO 10",
+        "lang_comp_sorted": {
+            "UNKNOWN": 172,
+            "ENGLISH": 89,
+            "KOREAN": 53
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.548,
+            "ENGLISH": 0.283,
+            "KOREAN": 0.169
+        }
+    },
+    {
+        "title": "21:29",
+        "lang_comp_sorted": {
+            "ENGLISH": 212,
+            "KOREAN": 43,
+            "UNKNOWN": 15
+        },
+        "lang_percent": {
+            "ENGLISH": 0.785,
+            "KOREAN": 0.159,
+            "UNKNOWN": 0.056
+        }
+    },
+    {
+        "title": "21:29 (Japanese Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 524,
+            "JAPANESE": 62,
+            "UNKNOWN": 27
+        },
+        "lang_percent": {
+            "ENGLISH": 0.855,
+            "JAPANESE": 0.101,
+            "UNKNOWN": 0.044
+        }
+    },
+    {
+        "title": "24/7",
+        "lang_comp_sorted": {
+            "UNKNOWN": 405,
+            "KOREAN": 42
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.906,
+            "KOREAN": 0.094
+        }
+    },
+    {
+        "title": "AFTER MOON",
+        "lang_comp_sorted": {
+            "UNKNOWN": 22,
+            "PORTUGUESE": 17,
+            "KOREAN": 16
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.4,
+            "PORTUGUESE": 0.309,
+            "KOREAN": 0.291
+        }
+    },
+    {
+        "title": "Alcohol-Free",
+        "lang_comp_sorted": {
+            "ENGLISH": 172,
+            "UNKNOWN": 151,
+            "KOREAN": 36
+        },
+        "lang_percent": {
+            "ENGLISH": 0.479,
+            "UNKNOWN": 0.421,
+            "KOREAN": 0.1
+        }
+    },
+    {
+        "title": "Alcohol-Free (English ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1546,
+            "UNKNOWN": 165
+        },
+        "lang_percent": {
+            "ENGLISH": 0.904,
+            "UNKNOWN": 0.096
+        }
+    },
+    {
+        "title": "Alcohol-Free (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Alcohol-Free -Japanese ver.-",
+        "lang_comp_sorted": {
+            "UNKNOWN": 360,
+            "ENGLISH": 142,
+            "JAPANESE": 28
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.679,
+            "ENGLISH": 0.268,
+            "JAPANESE": 0.053
+        }
+    },
+    {
+        "title": "Archive Voice Memo",
+        "lang_comp_sorted": {
+            "ENGLISH": 435
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "ATM",
+        "lang_comp_sorted": {
+            "ENGLISH": 800
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Baby Blue Love",
+        "lang_comp_sorted": {
+            "ENGLISH": 1010,
+            "KOREAN": 141,
+            "UNKNOWN": 42
+        },
+        "lang_percent": {
+            "ENGLISH": 0.847,
+            "KOREAN": 0.118,
+            "UNKNOWN": 0.035
+        }
+    },
+    {
+        "title": "Baby, I\u2019m good",
+        "lang_comp_sorted": {
+            "ENGLISH": 105,
+            "JAPANESE": 26,
+            "UNKNOWN": 22
+        },
+        "lang_percent": {
+            "ENGLISH": 0.686,
+            "JAPANESE": 0.17,
+            "UNKNOWN": 0.144
+        }
+    },
+    {
+        "title": "Bad Girl Good Girl (Cover)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 181,
+            "KOREAN": 121,
+            "ENGLISH": 41
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.528,
+            "KOREAN": 0.353,
+            "ENGLISH": 0.12
+        }
+    },
+    {
+        "title": "Basics",
+        "lang_comp_sorted": {
+            "ENGLISH": 269,
+            "UNKNOWN": 215,
+            "KOREAN": 43
+        },
+        "lang_percent": {
+            "ENGLISH": 0.51,
+            "UNKNOWN": 0.408,
+            "KOREAN": 0.082
+        }
+    },
+    {
+        "title": "BATTITUDE",
+        "lang_comp_sorted": {
+            "ENGLISH": 2278
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "BDZ",
+        "lang_comp_sorted": {
+            "JAPANESE": 66,
+            "UNKNOWN": 8
+        },
+        "lang_percent": {
+            "JAPANESE": 0.892,
+            "UNKNOWN": 0.108
+        }
+    },
+    {
+        "title": "BDZ (Korean Ver.)",
+        "lang_comp_sorted": {
+            "KOREAN": 87,
+            "UNKNOWN": 9
+        },
+        "lang_percent": {
+            "KOREAN": 0.906,
+            "UNKNOWN": 0.094
+        }
+    },
+    {
+        "title": "Be as ONE",
+        "lang_comp_sorted": {
+            "JAPANESE": 72,
+            "UNKNOWN": 13
+        },
+        "lang_percent": {
+            "JAPANESE": 0.847,
+            "UNKNOWN": 0.153
+        }
+    },
+    {
+        "title": "Be as ONE (Korean Version)",
+        "lang_comp_sorted": {
+            "KOREAN": 98,
+            "UNKNOWN": 9
+        },
+        "lang_percent": {
+            "KOREAN": 0.916,
+            "UNKNOWN": 0.084
+        }
+    },
+    {
+        "title": "Behind The Curtain",
+        "lang_comp_sorted": {
+            "UNKNOWN": 435,
+            "ENGLISH": 309,
+            "JAPANESE": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.569,
+            "ENGLISH": 0.404,
+            "JAPANESE": 0.027
+        }
+    },
+    {
+        "title": "BEHIND THE MASK",
+        "lang_comp_sorted": {
+            "ENGLISH": 886,
+            "UNKNOWN": 58,
+            "KOREAN": 32
+        },
+        "lang_percent": {
+            "ENGLISH": 0.908,
+            "UNKNOWN": 0.059,
+            "KOREAN": 0.033
+        }
+    },
+    {
+        "title": "BELIEVER",
+        "lang_comp_sorted": {
+            "ENGLISH": 173,
+            "KOREAN": 45,
+            "UNKNOWN": 29
+        },
+        "lang_percent": {
+            "ENGLISH": 0.7,
+            "KOREAN": 0.182,
+            "UNKNOWN": 0.117
+        }
+    },
+    {
+        "title": "Be OK",
+        "lang_comp_sorted": {
+            "ENGLISH": 542,
+            "JAPANESE": 47,
+            "UNKNOWN": 5
+        },
+        "lang_percent": {
+            "ENGLISH": 0.912,
+            "JAPANESE": 0.079,
+            "UNKNOWN": 0.008
+        }
+    },
+    {
+        "title": "BETTER",
+        "lang_comp_sorted": {
+            "UNKNOWN": 371,
+            "JAPANESE": 194,
+            "ENGLISH": 29,
+            "DANISH": 11
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.613,
+            "JAPANESE": 0.321,
+            "ENGLISH": 0.048,
+            "DANISH": 0.018
+        }
+    },
+    {
+        "title": "BETTER (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Beyond the Horizon",
+        "lang_comp_sorted": {
+            "ENGLISH": 1454,
+            "JAPANESE": 19,
+            "UNKNOWN": 16
+        },
+        "lang_percent": {
+            "ENGLISH": 0.976,
+            "JAPANESE": 0.013,
+            "UNKNOWN": 0.011
+        }
+    },
+    {
+        "title": "Bitter Sweet",
+        "lang_comp_sorted": {
+            "UNKNOWN": 478,
+            "ENGLISH": 66,
+            "JAPANESE": 39
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.82,
+            "ENGLISH": 0.113,
+            "JAPANESE": 0.067
+        }
+    },
+    {
+        "title": "BLAME IT ON ME",
+        "lang_comp_sorted": {
+            "ENGLISH": 422,
+            "UNKNOWN": 345,
+            "KOREAN": 27
+        },
+        "lang_percent": {
+            "ENGLISH": 0.531,
+            "UNKNOWN": 0.435,
+            "KOREAN": 0.034
+        }
+    },
+    {
+        "title": "Blind in Love",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "BLOOM",
+        "lang_comp_sorted": {
+            "ENGLISH": 1374,
+            "KOREAN": 161,
+            "UNKNOWN": 102
+        },
+        "lang_percent": {
+            "ENGLISH": 0.839,
+            "KOREAN": 0.098,
+            "UNKNOWN": 0.062
+        }
+    },
+    {
+        "title": "Bouquet",
+        "lang_comp_sorted": {
+            "JAPANESE": 372,
+            "UNKNOWN": 52
+        },
+        "lang_percent": {
+            "JAPANESE": 0.877,
+            "UNKNOWN": 0.123
+        }
+    },
+    {
+        "title": "BRAND NEW GIRL",
+        "lang_comp_sorted": {
+            "ENGLISH": 1012,
+            "UNKNOWN": 45,
+            "JAPANESE": 31
+        },
+        "lang_percent": {
+            "ENGLISH": 0.93,
+            "UNKNOWN": 0.041,
+            "JAPANESE": 0.028
+        }
+    },
+    {
+        "title": "BRAND NEW GIRL (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Brave",
+        "lang_comp_sorted": {
+            "UNKNOWN": 638,
+            "ENGLISH": 34,
+            "KOREAN": 32
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.906,
+            "ENGLISH": 0.048,
+            "KOREAN": 0.045
+        }
+    },
+    {
+        "title": "Breakthrough",
+        "lang_comp_sorted": {
+            "UNKNOWN": 697,
+            "JAPANESE": 64,
+            "ENGLISH": 61
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.848,
+            "JAPANESE": 0.078,
+            "ENGLISH": 0.074
+        }
+    },
+    {
+        "title": "Breakthrough (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "BREAKTHROUGH (Korean Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1144,
+            "KOREAN": 77,
+            "UNKNOWN": 17
+        },
+        "lang_percent": {
+            "ENGLISH": 0.924,
+            "KOREAN": 0.062,
+            "UNKNOWN": 0.014
+        }
+    },
+    {
+        "title": "Breakthrough (taalthechoi Remix)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 176,
+            "ENGLISH": 108,
+            "JAPANESE": 55
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.519,
+            "ENGLISH": 0.319,
+            "JAPANESE": 0.162
+        }
+    },
+    {
+        "title": "BRING IT BACK",
+        "lang_comp_sorted": {
+            "ENGLISH": 984,
+            "KOREAN": 51,
+            "UNKNOWN": 25
+        },
+        "lang_percent": {
+            "ENGLISH": 0.928,
+            "KOREAN": 0.048,
+            "UNKNOWN": 0.024
+        }
+    },
+    {
+        "title": "\uc120\uc778\uc7a5 (CACTUS)",
+        "lang_comp_sorted": {
+            "KOREAN": 72,
+            "UNKNOWN": 11
+        },
+        "lang_percent": {
+            "KOREAN": 0.867,
+            "UNKNOWN": 0.133
+        }
+    },
+    {
+        "title": "CANDY",
+        "lang_comp_sorted": {
+            "ENGLISH": 1926
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Candy Boy",
+        "lang_comp_sorted": {
+            "ENGLISH": 473,
+            "KOREAN": 64,
+            "UNKNOWN": 22
+        },
+        "lang_percent": {
+            "ENGLISH": 0.846,
+            "KOREAN": 0.114,
+            "UNKNOWN": 0.039
+        }
+    },
+    {
+        "title": "Candy Pop",
+        "lang_comp_sorted": {
+            "UNKNOWN": 213,
+            "ENGLISH": 151,
+            "JAPANESE": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.548,
+            "ENGLISH": 0.388,
+            "JAPANESE": 0.064
+        }
+    },
+    {
+        "title": "Candy Pop (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Catch a Wave",
+        "lang_comp_sorted": {
+            "UNKNOWN": 639,
+            "ENGLISH": 186,
+            "JAPANESE": 18
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.758,
+            "ENGLISH": 0.221,
+            "JAPANESE": 0.021
+        }
+    },
+    {
+        "title": "Catch a Wave (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Celebrate",
+        "lang_comp_sorted": {
+            "ENGLISH": 141,
+            "UNKNOWN": 28,
+            "JAPANESE": 20
+        },
+        "lang_percent": {
+            "ENGLISH": 0.746,
+            "UNKNOWN": 0.148,
+            "JAPANESE": 0.106
+        }
+    },
+    {
+        "title": "Changing!",
+        "lang_comp_sorted": {
+            "UNKNOWN": 336,
+            "ENGLISH": 252,
+            "JAPANESE": 56
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.522,
+            "ENGLISH": 0.391,
+            "JAPANESE": 0.087
+        }
+    },
+    {
+        "title": "CHEER UP",
+        "lang_comp_sorted": {
+            "ENGLISH": 343,
+            "KOREAN": 122,
+            "UNKNOWN": 9
+        },
+        "lang_percent": {
+            "ENGLISH": 0.724,
+            "KOREAN": 0.257,
+            "UNKNOWN": 0.019
+        }
+    },
+    {
+        "title": "CHEER UP (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "CHEER UP (Japanese Ver.)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 496,
+            "ENGLISH": 93,
+            "JAPANESE": 42
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.786,
+            "ENGLISH": 0.147,
+            "JAPANESE": 0.067
+        }
+    },
+    {
+        "title": "CHESS",
+        "lang_comp_sorted": {
+            "ENGLISH": 1093
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "CHILLAX",
+        "lang_comp_sorted": {
+            "KOREAN": 84,
+            "ENGLISH": 68,
+            "UNKNOWN": 22
+        },
+        "lang_percent": {
+            "KOREAN": 0.483,
+            "ENGLISH": 0.391,
+            "UNKNOWN": 0.126
+        }
+    },
+    {
+        "title": "Complete Voice Memo",
+        "lang_comp_sorted": {
+            "ENGLISH": 369
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Conversation",
+        "lang_comp_sorted": {
+            "ENGLISH": 241,
+            "UNKNOWN": 231,
+            "KOREAN": 23
+        },
+        "lang_percent": {
+            "ENGLISH": 0.487,
+            "UNKNOWN": 0.467,
+            "KOREAN": 0.046
+        }
+    },
+    {
+        "title": "CRAZY STUPID LOVE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 458,
+            "ENGLISH": 87,
+            "KOREAN": 43
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.779,
+            "ENGLISH": 0.148,
+            "KOREAN": 0.073
+        }
+    },
+    {
+        "title": "CRUEL",
+        "lang_comp_sorted": {
+            "ENGLISH": 938,
+            "UNKNOWN": 140,
+            "KOREAN": 73
+        },
+        "lang_percent": {
+            "ENGLISH": 0.815,
+            "UNKNOWN": 0.122,
+            "KOREAN": 0.063
+        }
+    },
+    {
+        "title": "CRY FOR ME",
+        "lang_comp_sorted": {
+            "ENGLISH": 982,
+            "KOREAN": 133,
+            "UNKNOWN": 19
+        },
+        "lang_percent": {
+            "ENGLISH": 0.866,
+            "KOREAN": 0.117,
+            "UNKNOWN": 0.017
+        }
+    },
+    {
+        "title": "CRY FOR ME (English Ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2542
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "CRY FOR ME -Japanese ver.-",
+        "lang_comp_sorted": {
+            "ENGLISH": 976,
+            "JAPANESE": 124,
+            "UNKNOWN": 21
+        },
+        "lang_percent": {
+            "ENGLISH": 0.871,
+            "JAPANESE": 0.111,
+            "UNKNOWN": 0.019
+        }
+    },
+    {
+        "title": "Cryptography Voice Memo",
+        "lang_comp_sorted": {
+            "ENGLISH": 388
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Dance Again",
+        "lang_comp_sorted": {
+            "UNKNOWN": 318,
+            "ENGLISH": 161,
+            "JAPANESE": 34
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.62,
+            "ENGLISH": 0.314,
+            "JAPANESE": 0.066
+        }
+    },
+    {
+        "title": "Dance the Night Away",
+        "lang_comp_sorted": {
+            "ENGLISH": 1022,
+            "UNKNOWN": 133,
+            "KOREAN": 38
+        },
+        "lang_percent": {
+            "ENGLISH": 0.857,
+            "UNKNOWN": 0.111,
+            "KOREAN": 0.032
+        }
+    },
+    {
+        "title": "Dance the Night Away (Japanese Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1013,
+            "UNKNOWN": 132,
+            "JAPANESE": 33
+        },
+        "lang_percent": {
+            "ENGLISH": 0.86,
+            "UNKNOWN": 0.112,
+            "JAPANESE": 0.028
+        }
+    },
+    {
+        "title": "DAT AHH DAT OOH",
+        "lang_comp_sorted": {
+            "ENGLISH": 2445
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Daydream",
+        "lang_comp_sorted": {
+            "UNKNOWN": 376,
+            "ENGLISH": 139,
+            "JAPANESE": 78
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.634,
+            "ENGLISH": 0.234,
+            "JAPANESE": 0.132
+        }
+    },
+    {
+        "title": "DECAFFEINATED",
+        "lang_comp_sorted": {
+            "ENGLISH": 313,
+            "UNKNOWN": 235,
+            "KOREAN": 30
+        },
+        "lang_percent": {
+            "ENGLISH": 0.542,
+            "UNKNOWN": 0.407,
+            "KOREAN": 0.052
+        }
+    },
+    {
+        "title": "DEJAVU",
+        "lang_comp_sorted": {
+            "UNKNOWN": 733,
+            "KOREAN": 161
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.82,
+            "KOREAN": 0.18
+        }
+    },
+    {
+        "title": "DEPEND ON YOU",
+        "lang_comp_sorted": {
+            "ENGLISH": 612,
+            "UNKNOWN": 65,
+            "KOREAN": 36
+        },
+        "lang_percent": {
+            "ENGLISH": 0.858,
+            "UNKNOWN": 0.091,
+            "KOREAN": 0.05
+        }
+    },
+    {
+        "title": "DING DONG",
+        "lang_comp_sorted": {
+            "UNKNOWN": 338,
+            "KOREAN": 85
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.799,
+            "KOREAN": 0.201
+        }
+    },
+    {
+        "title": "DIVE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 506,
+            "ENGLISH": 148,
+            "JAPANESE": 23
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.747,
+            "ENGLISH": 0.219,
+            "JAPANESE": 0.034
+        }
+    },
+    {
+        "title": "DIVE IN",
+        "lang_comp_sorted": {
+            "ENGLISH": 992
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "\ub2e4\uc2dc \ud574\uc918 (Do It Again)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 612,
+            "KOREAN": 153,
+            "ENGLISH": 82
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.723,
+            "KOREAN": 0.181,
+            "ENGLISH": 0.097
+        }
+    },
+    {
+        "title": "Do not touch",
+        "lang_comp_sorted": {
+            "ENGLISH": 1103,
+            "UNKNOWN": 47,
+            "JAPANESE": 27
+        },
+        "lang_percent": {
+            "ENGLISH": 0.937,
+            "UNKNOWN": 0.04,
+            "JAPANESE": 0.023
+        }
+    },
+    {
+        "title": "DON\u2019T CALL ME AGAIN",
+        "lang_comp_sorted": {
+            "UNKNOWN": 384,
+            "ENGLISH": 78,
+            "KOREAN": 14
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.807,
+            "ENGLISH": 0.164,
+            "KOREAN": 0.029
+        }
+    },
+    {
+        "title": "\ud798\ub0b4! (DON\u2019T GIVE UP)",
+        "lang_comp_sorted": {
+            "KOREAN": 192,
+            "ENGLISH": 40,
+            "UNKNOWN": 19
+        },
+        "lang_percent": {
+            "KOREAN": 0.765,
+            "ENGLISH": 0.159,
+            "UNKNOWN": 0.076
+        }
+    },
+    {
+        "title": "Doughnut",
+        "lang_comp_sorted": {
+            "UNKNOWN": 266,
+            "JAPANESE": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.917,
+            "JAPANESE": 0.083
+        }
+    },
+    {
+        "title": "Doughnut (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "DO WHAT WE LIKE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 628,
+            "KOREAN": 131
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.827,
+            "KOREAN": 0.173
+        }
+    },
+    {
+        "title": "Echoes of Heart",
+        "lang_comp_sorted": {
+            "UNKNOWN": 649,
+            "ENGLISH": 302,
+            "JAPANESE": 26
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.664,
+            "ENGLISH": 0.309,
+            "JAPANESE": 0.027
+        }
+    },
+    {
+        "title": "ENEMY",
+        "lang_comp_sorted": {
+            "ENGLISH": 450,
+            "UNKNOWN": 336,
+            "JAPANESE": 33
+        },
+        "lang_percent": {
+            "ENGLISH": 0.549,
+            "UNKNOWN": 0.41,
+            "JAPANESE": 0.04
+        }
+    },
+    {
+        "title": "ESPRESSO",
+        "lang_comp_sorted": {
+            "UNKNOWN": 296,
+            "ENGLISH": 186,
+            "KOREAN": 52
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.554,
+            "ENGLISH": 0.348,
+            "KOREAN": 0.097
+        }
+    },
+    {
+        "title": "Eye Eye Eyes",
+        "lang_comp_sorted": {
+            "UNKNOWN": 576,
+            "KOREAN": 191,
+            "ENGLISH": 66
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.691,
+            "KOREAN": 0.229,
+            "ENGLISH": 0.079
+        }
+    },
+    {
+        "title": "Fake & True",
+        "lang_comp_sorted": {
+            "UNKNOWN": 381,
+            "ENGLISH": 47,
+            "JAPANESE": 28
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.836,
+            "ENGLISH": 0.103,
+            "JAPANESE": 0.061
+        }
+    },
+    {
+        "title": "FANCY",
+        "lang_comp_sorted": {
+            "ENGLISH": 178,
+            "KOREAN": 23,
+            "UNKNOWN": 16
+        },
+        "lang_percent": {
+            "ENGLISH": 0.82,
+            "KOREAN": 0.106,
+            "UNKNOWN": 0.074
+        }
+    },
+    {
+        "title": "Fancy (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 326,
+            "ENGLISH": 180,
+            "JAPANESE": 128
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.514,
+            "ENGLISH": 0.284,
+            "JAPANESE": 0.202
+        }
+    },
+    {
+        "title": "Fanfare",
+        "lang_comp_sorted": {
+            "ENGLISH": 128,
+            "UNKNOWN": 105,
+            "JAPANESE": 38
+        },
+        "lang_percent": {
+            "ENGLISH": 0.472,
+            "UNKNOWN": 0.387,
+            "JAPANESE": 0.14
+        }
+    },
+    {
+        "title": "Fanfare (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Fanfare (Lee Hae Sol Remix)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 262,
+            "ENGLISH": 123,
+            "JAPANESE": 67
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.58,
+            "ENGLISH": 0.272,
+            "JAPANESE": 0.148
+        }
+    },
+    {
+        "title": "Feel Special",
+        "lang_comp_sorted": {
+            "ENGLISH": 503,
+            "KOREAN": 142,
+            "UNKNOWN": 60
+        },
+        "lang_percent": {
+            "ENGLISH": 0.713,
+            "KOREAN": 0.201,
+            "UNKNOWN": 0.085
+        }
+    },
+    {
+        "title": "Feel Special (Japanese Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 500,
+            "JAPANESE": 84,
+            "UNKNOWN": 80
+        },
+        "lang_percent": {
+            "ENGLISH": 0.753,
+            "JAPANESE": 0.127,
+            "UNKNOWN": 0.12
+        }
+    },
+    {
+        "title": "FFW",
+        "lang_comp_sorted": {
+            "KOREAN": 50,
+            "UNKNOWN": 22
+        },
+        "lang_percent": {
+            "KOREAN": 0.694,
+            "UNKNOWN": 0.306
+        }
+    },
+    {
+        "title": "F.I.L.A (Fall In Love Again)",
+        "lang_comp_sorted": {
+            "ENGLISH": 646,
+            "UNKNOWN": 384,
+            "KOREAN": 61
+        },
+        "lang_percent": {
+            "ENGLISH": 0.592,
+            "UNKNOWN": 0.352,
+            "KOREAN": 0.056
+        }
+    },
+    {
+        "title": "FINE",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "FIREWORK",
+        "lang_comp_sorted": {
+            "ENGLISH": 74,
+            "KOREAN": 29,
+            "UNKNOWN": 20
+        },
+        "lang_percent": {
+            "ENGLISH": 0.602,
+            "KOREAN": 0.236,
+            "UNKNOWN": 0.163
+        }
+    },
+    {
+        "title": "First Time",
+        "lang_comp_sorted": {
+            "UNKNOWN": 415,
+            "ENGLISH": 196,
+            "KOREAN": 28
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.649,
+            "ENGLISH": 0.307,
+            "KOREAN": 0.044
+        }
+    },
+    {
+        "title": "FIX A DRINK",
+        "lang_comp_sorted": {
+            "ENGLISH": 373,
+            "KOREAN": 35,
+            "UNKNOWN": 20
+        },
+        "lang_percent": {
+            "ENGLISH": 0.871,
+            "KOREAN": 0.082,
+            "UNKNOWN": 0.047
+        }
+    },
+    {
+        "title": "Flow like waves",
+        "lang_comp_sorted": {
+            "UNKNOWN": 185,
+            "ENGLISH": 90,
+            "JAPANESE": 20
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.627,
+            "ENGLISH": 0.305,
+            "JAPANESE": 0.068
+        }
+    },
+    {
+        "title": "FOUR",
+        "lang_comp_sorted": {
+            "ENGLISH": 435,
+            "UNKNOWN": 221
+        },
+        "lang_percent": {
+            "ENGLISH": 0.663,
+            "UNKNOWN": 0.337
+        }
+    },
+    {
+        "title": "Four-leaf Clover",
+        "lang_comp_sorted": {
+            "UNKNOWN": 626,
+            "ENGLISH": 401,
+            "JAPANESE": 18
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.599,
+            "ENGLISH": 0.384,
+            "JAPANESE": 0.017
+        }
+    },
+    {
+        "title": "Funny Valentine",
+        "lang_comp_sorted": {
+            "UNKNOWN": 361,
+            "ENGLISH": 230,
+            "JAPANESE": 26
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.585,
+            "ENGLISH": 0.373,
+            "JAPANESE": 0.042
+        }
+    },
+    {
+        "title": "GET LOUD",
+        "lang_comp_sorted": {
+            "KOREAN": 42,
+            "UNKNOWN": 23
+        },
+        "lang_percent": {
+            "KOREAN": 0.646,
+            "UNKNOWN": 0.354
+        }
+    },
+    {
+        "title": "GIRLS LIKE US",
+        "lang_comp_sorted": {
+            "UNKNOWN": 211,
+            "ENGLISH": 126,
+            "KOREAN": 32
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.572,
+            "ENGLISH": 0.341,
+            "KOREAN": 0.087
+        }
+    },
+    {
+        "title": "Glow",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "G.O.A.T.",
+        "lang_comp_sorted": {
+            "ENGLISH": 2275,
+            "UNKNOWN": 291
+        },
+        "lang_percent": {
+            "ENGLISH": 0.887,
+            "UNKNOWN": 0.113
+        }
+    },
+    {
+        "title": "G.O.A.T (Spanish version)",
+        "lang_comp_sorted": {
+            "SPANISH": 2245
+        },
+        "lang_percent": {
+            "SPANISH": 1.0
+        }
+    },
+    {
+        "title": "GO HARD",
+        "lang_comp_sorted": {
+            "UNKNOWN": 714,
+            "ENGLISH": 106,
+            "KOREAN": 61
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.81,
+            "ENGLISH": 0.12,
+            "KOREAN": 0.069
+        }
+    },
+    {
+        "title": "\ubbf8\ucce4\ub098\ubd10 (Going Crazy)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 587,
+            "ENGLISH": 49,
+            "KOREAN": 29
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.883,
+            "ENGLISH": 0.074,
+            "KOREAN": 0.044
+        }
+    },
+    {
+        "title": "Gone",
+        "lang_comp_sorted": {
+            "ENGLISH": 601,
+            "UNKNOWN": 74,
+            "KOREAN": 72
+        },
+        "lang_percent": {
+            "ENGLISH": 0.805,
+            "UNKNOWN": 0.099,
+            "KOREAN": 0.096
+        }
+    },
+    {
+        "title": "Good at Love",
+        "lang_comp_sorted": {
+            "ENGLISH": 1493,
+            "UNKNOWN": 23,
+            "JAPANESE": 19
+        },
+        "lang_percent": {
+            "ENGLISH": 0.973,
+            "UNKNOWN": 0.015,
+            "JAPANESE": 0.012
+        }
+    },
+    {
+        "title": "GOT THE THRILLS",
+        "lang_comp_sorted": {
+            "ENGLISH": 983,
+            "UNKNOWN": 97,
+            "KOREAN": 38
+        },
+        "lang_percent": {
+            "ENGLISH": 0.879,
+            "UNKNOWN": 0.087,
+            "KOREAN": 0.034
+        }
+    },
+    {
+        "title": "HANDLE IT",
+        "lang_comp_sorted": {
+            "UNKNOWN": 437,
+            "KOREAN": 47
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.903,
+            "KOREAN": 0.097
+        }
+    },
+    {
+        "title": "HAPPY HAPPY",
+        "lang_comp_sorted": {
+            "ENGLISH": 109,
+            "UNKNOWN": 26,
+            "JAPANESE": 25
+        },
+        "lang_percent": {
+            "ENGLISH": 0.681,
+            "UNKNOWN": 0.163,
+            "JAPANESE": 0.156
+        }
+    },
+    {
+        "title": "HAPPY HAPPY (collapsedone Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 786,
+            "UNKNOWN": 347,
+            "JAPANESE": 78
+        },
+        "lang_percent": {
+            "ENGLISH": 0.649,
+            "UNKNOWN": 0.287,
+            "JAPANESE": 0.064
+        }
+    },
+    {
+        "title": "HAPPY HAPPY (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Hare Hare",
+        "lang_comp_sorted": {
+            "UNKNOWN": 330,
+            "ENGLISH": 93,
+            "JAPANESE": 31
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.727,
+            "ENGLISH": 0.205,
+            "JAPANESE": 0.068
+        }
+    },
+    {
+        "title": "Hare Hare (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Headphone \uc368 (My Headphones On)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 307,
+            "ENGLISH": 163,
+            "KOREAN": 31,
+            "SLOVAK": 26
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.583,
+            "ENGLISH": 0.309,
+            "KOREAN": 0.059,
+            "SLOVAK": 0.049
+        }
+    },
+    {
+        "title": "HEARTBREAK AVENUE",
+        "lang_comp_sorted": {
+            "ENGLISH": 1828,
+            "UNKNOWN": 173
+        },
+        "lang_percent": {
+            "ENGLISH": 0.914,
+            "UNKNOWN": 0.086
+        }
+    },
+    {
+        "title": "Heart Shaker",
+        "lang_comp_sorted": {
+            "UNKNOWN": 199,
+            "KOREAN": 67
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.748,
+            "KOREAN": 0.252
+        }
+    },
+    {
+        "title": "Heart Shaker (GALACTIKA * Holiday Remix)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 124,
+            "KOREAN": 44
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.738,
+            "KOREAN": 0.262
+        }
+    },
+    {
+        "title": "Heart Shaker (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 407,
+            "JAPANESE": 34
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.923,
+            "JAPANESE": 0.077
+        }
+    },
+    {
+        "title": "HELL IN HEAVEN",
+        "lang_comp_sorted": {
+            "ENGLISH": 152,
+            "UNKNOWN": 146,
+            "KOREAN": 44
+        },
+        "lang_percent": {
+            "ENGLISH": 0.444,
+            "UNKNOWN": 0.427,
+            "KOREAN": 0.129
+        }
+    },
+    {
+        "title": "HELLO",
+        "lang_comp_sorted": {
+            "ENGLISH": 1396,
+            "KOREAN": 15,
+            "UNKNOWN": 8
+        },
+        "lang_percent": {
+            "ENGLISH": 0.984,
+            "KOREAN": 0.011,
+            "UNKNOWN": 0.006
+        }
+    },
+    {
+        "title": "Here I am",
+        "lang_comp_sorted": {
+            "ENGLISH": 907,
+            "JAPANESE": 54,
+            "UNKNOWN": 19
+        },
+        "lang_percent": {
+            "ENGLISH": 0.926,
+            "JAPANESE": 0.055,
+            "UNKNOWN": 0.019
+        }
+    },
+    {
+        "title": "HI HELLO",
+        "lang_comp_sorted": {
+            "UNKNOWN": 789,
+            "ENGLISH": 469,
+            "KOREAN": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.615,
+            "ENGLISH": 0.366,
+            "KOREAN": 0.019
+        }
+    },
+    {
+        "title": "HO!",
+        "lang_comp_sorted": {
+            "UNKNOWN": 857,
+            "KOREAN": 209
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.804,
+            "KOREAN": 0.196
+        }
+    },
+    {
+        "title": "Hold Me Tight",
+        "lang_comp_sorted": {
+            "ENGLISH": 132,
+            "KOREAN": 55,
+            "UNKNOWN": 20
+        },
+        "lang_percent": {
+            "ENGLISH": 0.638,
+            "KOREAN": 0.266,
+            "UNKNOWN": 0.097
+        }
+    },
+    {
+        "title": "HOT",
+        "lang_comp_sorted": {
+            "UNKNOWN": 551,
+            "INDONESIAN": 54,
+            "ENGLISH": 35,
+            "KOREAN": 27
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.826,
+            "INDONESIAN": 0.081,
+            "ENGLISH": 0.052,
+            "KOREAN": 0.04
+        }
+    },
+    {
+        "title": "How u doin\u2019",
+        "lang_comp_sorted": {
+            "UNKNOWN": 958,
+            "ENGLISH": 41,
+            "JAPANESE": 22
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.938,
+            "ENGLISH": 0.04,
+            "JAPANESE": 0.022
+        }
+    },
+    {
+        "title": "I CAN\u2019T STOP ME",
+        "lang_comp_sorted": {
+            "UNKNOWN": 804,
+            "ENGLISH": 203,
+            "KOREAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.782,
+            "ENGLISH": 0.197,
+            "KOREAN": 0.02
+        }
+    },
+    {
+        "title": "I CAN\u2019T STOP ME (English Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2179,
+            "UNKNOWN": 403
+        },
+        "lang_percent": {
+            "ENGLISH": 0.844,
+            "UNKNOWN": 0.156
+        }
+    },
+    {
+        "title": "I CAN\u2019T STOP ME (feat. BOYS LIKE GIRLS)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2479,
+            "UNKNOWN": 387
+        },
+        "lang_percent": {
+            "ENGLISH": 0.865,
+            "UNKNOWN": 0.135
+        }
+    },
+    {
+        "title": "I CAN\u2019T STOP ME -Japanese ver.-",
+        "lang_comp_sorted": {
+            "UNKNOWN": 501,
+            "ENGLISH": 237,
+            "JAPANESE": 22
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.659,
+            "ENGLISH": 0.312,
+            "JAPANESE": 0.029
+        }
+    },
+    {
+        "title": "Ice Cream (\ub179\uc544\uc694)",
+        "lang_comp_sorted": {
+            "KOREAN": 118,
+            "INDONESIAN": 44,
+            "UNKNOWN": 16
+        },
+        "lang_percent": {
+            "KOREAN": 0.663,
+            "INDONESIAN": 0.247,
+            "UNKNOWN": 0.09
+        }
+    },
+    {
+        "title": "ICON",
+        "lang_comp_sorted": {
+            "ENGLISH": 2009,
+            "UNKNOWN": 223
+        },
+        "lang_percent": {
+            "ENGLISH": 0.9,
+            "UNKNOWN": 0.1
+        }
+    },
+    {
+        "title": "Identity",
+        "lang_comp_sorted": {
+            "ENGLISH": 1218,
+            "UNKNOWN": 83,
+            "JAPANESE": 19,
+            "ZULU": 4
+        },
+        "lang_percent": {
+            "ENGLISH": 0.92,
+            "UNKNOWN": 0.063,
+            "JAPANESE": 0.014,
+            "ZULU": 0.003
+        }
+    },
+    {
+        "title": "I GOT YOU",
+        "lang_comp_sorted": {
+            "ENGLISH": 1833,
+            "UNKNOWN": 190
+        },
+        "lang_percent": {
+            "ENGLISH": 0.906,
+            "UNKNOWN": 0.094
+        }
+    },
+    {
+        "title": "I GOT YOU (feat. Lauv)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2213
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "I GOT YOU (Garage ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1754,
+            "UNKNOWN": 199
+        },
+        "lang_percent": {
+            "ENGLISH": 0.898,
+            "UNKNOWN": 0.102
+        }
+    },
+    {
+        "title": "I GOT YOU (Garage ver.) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I GOT YOU (Hyper ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1851,
+            "UNKNOWN": 191
+        },
+        "lang_percent": {
+            "ENGLISH": 0.906,
+            "UNKNOWN": 0.094
+        }
+    },
+    {
+        "title": "I GOT YOU (Hyper ver.) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I GOT YOU (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I GOT YOU (Lauv Remix) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I GOT YOU (Lo-fi ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1518,
+            "UNKNOWN": 188
+        },
+        "lang_percent": {
+            "ENGLISH": 0.89,
+            "UNKNOWN": 0.11
+        }
+    },
+    {
+        "title": "I GOT YOU (Lo-fi ver.) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I GOT YOU (Sped Up ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2060
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "I GOT YOU (Sped Up ver.) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I\u2019LL SHOW YOU",
+        "lang_comp_sorted": {
+            "ENGLISH": 1576,
+            "KOREAN": 39,
+            "UNKNOWN": 14
+        },
+        "lang_percent": {
+            "ENGLISH": 0.967,
+            "KOREAN": 0.024,
+            "UNKNOWN": 0.009
+        }
+    },
+    {
+        "title": "\ub204\uad6c\ubcf4\ub2e4 \ub110 \uc0ac\ub791\ud574 (I love you more than anyone)",
+        "lang_comp_sorted": {
+            "ENGLISH": 466,
+            "KOREAN": 413,
+            "UNKNOWN": 29
+        },
+        "lang_percent": {
+            "ENGLISH": 0.513,
+            "KOREAN": 0.455,
+            "UNKNOWN": 0.032
+        }
+    },
+    {
+        "title": "\ub204\uad6c\ubcf4\ub2e4 \ub110 \uc0ac\ub791\ud574 (I love you more than anyone) (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "I\u2019m Gonna Be a Star",
+        "lang_comp_sorted": {
+            "UNKNOWN": 100,
+            "KOREAN": 47,
+            "ENGLISH": 34
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.552,
+            "KOREAN": 0.26,
+            "ENGLISH": 0.188
+        }
+    },
+    {
+        "title": "IN MY ROOM",
+        "lang_comp_sorted": {
+            "ENGLISH": 967
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Inside of me",
+        "lang_comp_sorted": {
+            "UNKNOWN": 1105,
+            "ENGLISH": 258,
+            "JAPANESE": 54
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.78,
+            "ENGLISH": 0.182,
+            "JAPANESE": 0.038
+        }
+    },
+    {
+        "title": "In the summer",
+        "lang_comp_sorted": {
+            "UNKNOWN": 709,
+            "ENGLISH": 205,
+            "JAPANESE": 133
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.677,
+            "ENGLISH": 0.196,
+            "JAPANESE": 0.127
+        }
+    },
+    {
+        "title": "It\u2019s not easy for you",
+        "lang_comp_sorted": {
+            "UNKNOWN": 337,
+            "ENGLISH": 49,
+            "JAPANESE": 23
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.824,
+            "ENGLISH": 0.12,
+            "JAPANESE": 0.056
+        }
+    },
+    {
+        "title": "I WANT YOU BACK",
+        "lang_comp_sorted": {
+            "ENGLISH": 1633,
+            "UNKNOWN": 819
+        },
+        "lang_percent": {
+            "ENGLISH": 0.666,
+            "UNKNOWN": 0.334
+        }
+    },
+    {
+        "title": "\uc798\uc790\uc694 \uad7f\ub098\uc787 (JALJAYO, GOOD NIGHT)",
+        "lang_comp_sorted": {
+            "ENGLISH": 246,
+            "KOREAN": 146,
+            "UNKNOWN": 31,
+            "SLOVAK": 19
+        },
+        "lang_percent": {
+            "ENGLISH": 0.557,
+            "KOREAN": 0.33,
+            "UNKNOWN": 0.07,
+            "SLOVAK": 0.043
+        }
+    },
+    {
+        "title": "Jealousy",
+        "lang_comp_sorted": {
+            "UNKNOWN": 390,
+            "ENGLISH": 88,
+            "JAPANESE": 22
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.78,
+            "ENGLISH": 0.176,
+            "JAPANESE": 0.044
+        }
+    },
+    {
+        "title": "JELLY JELLY",
+        "lang_comp_sorted": {
+            "UNKNOWN": 214,
+            "KOREAN": 108
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.665,
+            "KOREAN": 0.335
+        }
+    },
+    {
+        "title": "Just be yourself",
+        "lang_comp_sorted": {
+            "ENGLISH": 144,
+            "UNKNOWN": 41,
+            "JAPANESE": 29
+        },
+        "lang_percent": {
+            "ENGLISH": 0.673,
+            "UNKNOWN": 0.192,
+            "JAPANESE": 0.136
+        }
+    },
+    {
+        "title": "Keeper",
+        "lang_comp_sorted": {
+            "ENGLISH": 824,
+            "UNKNOWN": 193,
+            "KOREAN": 46
+        },
+        "lang_percent": {
+            "ENGLISH": 0.775,
+            "UNKNOWN": 0.182,
+            "KOREAN": 0.043
+        }
+    },
+    {
+        "title": "Kiss My Troubles Away",
+        "lang_comp_sorted": {
+            "ENGLISH": 2087
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "KNOCK KNOCK",
+        "lang_comp_sorted": {
+            "ENGLISH": 458,
+            "UNKNOWN": 225,
+            "KOREAN": 31
+        },
+        "lang_percent": {
+            "ENGLISH": 0.641,
+            "UNKNOWN": 0.315,
+            "KOREAN": 0.043
+        }
+    },
+    {
+        "title": "KNOCK KNOCK (Japanese Ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 738,
+            "UNKNOWN": 164,
+            "JAPANESE": 68
+        },
+        "lang_percent": {
+            "ENGLISH": 0.761,
+            "UNKNOWN": 0.169,
+            "JAPANESE": 0.07
+        }
+    },
+    {
+        "title": "Kura Kura",
+        "lang_comp_sorted": {
+            "UNKNOWN": 572,
+            "JAPANESE": 26
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.957,
+            "JAPANESE": 0.043
+        }
+    },
+    {
+        "title": "Kura Kura (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "LALALA",
+        "lang_comp_sorted": {
+            "UNKNOWN": 480,
+            "ENGLISH": 63,
+            "KOREAN": 62
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.793,
+            "ENGLISH": 0.104,
+            "KOREAN": 0.102
+        }
+    },
+    {
+        "title": "LAST WALTZ",
+        "lang_comp_sorted": {
+            "UNKNOWN": 519,
+            "KOREAN": 169,
+            "ENGLISH": 115
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.646,
+            "KOREAN": 0.21,
+            "ENGLISH": 0.143
+        }
+    },
+    {
+        "title": "LET LOVE GO",
+        "lang_comp_sorted": {
+            "ENGLISH": 1585,
+            "UNKNOWN": 118
+        },
+        "lang_percent": {
+            "ENGLISH": 0.931,
+            "UNKNOWN": 0.069
+        }
+    },
+    {
+        "title": "Like 1",
+        "lang_comp_sorted": {
+            "ENGLISH": 2162,
+            "JAPANESE": 34,
+            "UNKNOWN": 15
+        },
+        "lang_percent": {
+            "ENGLISH": 0.978,
+            "JAPANESE": 0.015,
+            "UNKNOWN": 0.007
+        }
+    },
+    {
+        "title": "Like a Fool",
+        "lang_comp_sorted": {
+            "ENGLISH": 154,
+            "KOREAN": 72,
+            "UNKNOWN": 25
+        },
+        "lang_percent": {
+            "ENGLISH": 0.614,
+            "KOREAN": 0.287,
+            "UNKNOWN": 0.1
+        }
+    },
+    {
+        "title": "Like It Like It",
+        "lang_comp_sorted": {
+            "ENGLISH": 1751,
+            "KOREAN": 32,
+            "UNKNOWN": 17
+        },
+        "lang_percent": {
+            "ENGLISH": 0.973,
+            "KOREAN": 0.018,
+            "UNKNOWN": 0.009
+        }
+    },
+    {
+        "title": "Like OOH-AHH (Japanese Ver.)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 305,
+            "ENGLISH": 272,
+            "JAPANESE": 78
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.466,
+            "ENGLISH": 0.415,
+            "JAPANESE": 0.119
+        }
+    },
+    {
+        "title": "LIKEY",
+        "lang_comp_sorted": {
+            "UNKNOWN": 97,
+            "KOREAN": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.802,
+            "KOREAN": 0.198
+        }
+    },
+    {
+        "title": "LIKEY (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 216,
+            "JAPANESE": 37
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.854,
+            "JAPANESE": 0.146
+        }
+    },
+    {
+        "title": "\ub0a0 \ubc14\ub77c\ubc14\ub77c\ubd10 (LOOK AT ME)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 482,
+            "KOREAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.958,
+            "KOREAN": 0.042
+        }
+    },
+    {
+        "title": "L.O.V.E",
+        "lang_comp_sorted": {
+            "ENGLISH": 223,
+            "JAPANESE": 19,
+            "UNKNOWN": 16
+        },
+        "lang_percent": {
+            "ENGLISH": 0.864,
+            "JAPANESE": 0.074,
+            "UNKNOWN": 0.062
+        }
+    },
+    {
+        "title": "LOVE FOOLISH",
+        "lang_comp_sorted": {
+            "ENGLISH": 657,
+            "KOREAN": 137,
+            "UNKNOWN": 17
+        },
+        "lang_percent": {
+            "ENGLISH": 0.81,
+            "KOREAN": 0.169,
+            "UNKNOWN": 0.021
+        }
+    },
+    {
+        "title": "Love is more",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "LOVE LINE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 466,
+            "KOREAN": 40
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.921,
+            "KOREAN": 0.079
+        }
+    },
+    {
+        "title": "LOVE WARNING",
+        "lang_comp_sorted": {
+            "ENGLISH": 600,
+            "UNKNOWN": 435,
+            "JAPANESE": 46
+        },
+        "lang_percent": {
+            "ENGLISH": 0.555,
+            "UNKNOWN": 0.402,
+            "JAPANESE": 0.043
+        }
+    },
+    {
+        "title": "LUV ME",
+        "lang_comp_sorted": {
+            "UNKNOWN": 612,
+            "JAPANESE": 114,
+            "ENGLISH": 102
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.739,
+            "JAPANESE": 0.138,
+            "ENGLISH": 0.123
+        }
+    },
+    {
+        "title": "LUV ME (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Magical",
+        "lang_comp_sorted": {
+            "ENGLISH": 1661
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "MAKE ME GO",
+        "lang_comp_sorted": {
+            "UNKNOWN": 830,
+            "KOREAN": 49
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.944,
+            "KOREAN": 0.056
+        }
+    },
+    {
+        "title": "Mamushi (Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1536,
+            "UNKNOWN": 221,
+            "JAPANESE": 143
+        },
+        "lang_percent": {
+            "ENGLISH": 0.808,
+            "UNKNOWN": 0.116,
+            "JAPANESE": 0.075
+        }
+    },
+    {
+        "title": "MARS",
+        "lang_comp_sorted": {
+            "ENGLISH": 844,
+            "KOREAN": 46,
+            "UNKNOWN": 7
+        },
+        "lang_percent": {
+            "ENGLISH": 0.941,
+            "KOREAN": 0.051,
+            "UNKNOWN": 0.008
+        }
+    },
+    {
+        "title": "Marshmallow",
+        "lang_comp_sorted": {
+            "UNKNOWN": 256,
+            "ENGLISH": 217,
+            "JAPANESE": 64
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.477,
+            "ENGLISH": 0.404,
+            "JAPANESE": 0.119
+        }
+    },
+    {
+        "title": "MEEEEEE",
+        "lang_comp_sorted": {
+            "ENGLISH": 1606
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Merry & Happy",
+        "lang_comp_sorted": {
+            "UNKNOWN": 379,
+            "KOREAN": 119,
+            "ENGLISH": 82
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.653,
+            "KOREAN": 0.205,
+            "ENGLISH": 0.141
+        }
+    },
+    {
+        "title": "Message",
+        "lang_comp_sorted": {
+            "ENGLISH": 305,
+            "JAPANESE": 30,
+            "UNKNOWN": 7
+        },
+        "lang_percent": {
+            "ENGLISH": 0.892,
+            "JAPANESE": 0.088,
+            "UNKNOWN": 0.02
+        }
+    },
+    {
+        "title": "MISSING U",
+        "lang_comp_sorted": {
+            "UNKNOWN": 116,
+            "KOREAN": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.823,
+            "KOREAN": 0.177
+        }
+    },
+    {
+        "title": "MOONLIGHT",
+        "lang_comp_sorted": {
+            "ENGLISH": 2099,
+            "UNKNOWN": 99
+        },
+        "lang_percent": {
+            "ENGLISH": 0.955,
+            "UNKNOWN": 0.045
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE",
+        "lang_comp_sorted": {
+            "ENGLISH": 2435,
+            "UNKNOWN": 97
+        },
+        "lang_percent": {
+            "ENGLISH": 0.962,
+            "UNKNOWN": 0.038
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE (Club remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2582,
+            "UNKNOWN": 97
+        },
+        "lang_percent": {
+            "ENGLISH": 0.964,
+            "UNKNOWN": 0.036
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE (House remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2479,
+            "UNKNOWN": 124
+        },
+        "lang_percent": {
+            "ENGLISH": 0.952,
+            "UNKNOWN": 0.048
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1906
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "MOONLIGHT SUNRISE (R&B remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2346,
+            "UNKNOWN": 100
+        },
+        "lang_percent": {
+            "ENGLISH": 0.959,
+            "UNKNOWN": 0.041
+        }
+    },
+    {
+        "title": "MORE & MORE",
+        "lang_comp_sorted": {
+            "ENGLISH": 365,
+            "KOREAN": 22,
+            "UNKNOWN": 5
+        },
+        "lang_percent": {
+            "ENGLISH": 0.931,
+            "KOREAN": 0.056,
+            "UNKNOWN": 0.013
+        }
+    },
+    {
+        "title": "MORE & MORE (English Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2533,
+            "UNKNOWN": 134
+        },
+        "lang_percent": {
+            "ENGLISH": 0.95,
+            "UNKNOWN": 0.05
+        }
+    },
+    {
+        "title": "MORE & MORE (Japanese Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 351,
+            "JAPANESE": 22,
+            "UNKNOWN": 5
+        },
+        "lang_percent": {
+            "ENGLISH": 0.929,
+            "JAPANESE": 0.058,
+            "UNKNOWN": 0.013
+        }
+    },
+    {
+        "title": "MORE & MORE (LEE HAE SOL Sped Up Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2536
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "MOVE LIKE THAT",
+        "lang_comp_sorted": {
+            "ENGLISH": 533,
+            "KOREAN": 20,
+            "UNKNOWN": 7
+        },
+        "lang_percent": {
+            "ENGLISH": 0.952,
+            "KOREAN": 0.036,
+            "UNKNOWN": 0.013
+        }
+    },
+    {
+        "title": "NEW LOOK",
+        "lang_comp_sorted": {
+            "UNKNOWN": 279,
+            "ENGLISH": 152,
+            "JAPANESE": 39
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.594,
+            "ENGLISH": 0.323,
+            "JAPANESE": 0.083
+        }
+    },
+    {
+        "title": "NEW NEW",
+        "lang_comp_sorted": {
+            "ENGLISH": 1383,
+            "UNKNOWN": 57,
+            "KOREAN": 40
+        },
+        "lang_percent": {
+            "ENGLISH": 0.934,
+            "UNKNOWN": 0.039,
+            "KOREAN": 0.027
+        }
+    },
+    {
+        "title": "NEXT PAGE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 47,
+            "KOREAN": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.662,
+            "KOREAN": 0.338
+        }
+    },
+    {
+        "title": "Ocean Deep",
+        "lang_comp_sorted": {
+            "UNKNOWN": 624,
+            "ENGLISH": 194,
+            "JAPANESE": 27
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.738,
+            "ENGLISH": 0.23,
+            "JAPANESE": 0.032
+        }
+    },
+    {
+        "title": "Off My Face (Melody Project)",
+        "lang_comp_sorted": {
+            "ENGLISH": 940,
+            "UNKNOWN": 220
+        },
+        "lang_percent": {
+            "ENGLISH": 0.81,
+            "UNKNOWN": 0.19
+        }
+    },
+    {
+        "title": "One day",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "ONE IN A MILLION",
+        "lang_comp_sorted": {
+            "ENGLISH": 554,
+            "KOREAN": 39,
+            "UNKNOWN": 15
+        },
+        "lang_percent": {
+            "ENGLISH": 0.911,
+            "KOREAN": 0.064,
+            "UNKNOWN": 0.025
+        }
+    },
+    {
+        "title": "ONE MORE TIME",
+        "lang_comp_sorted": {
+            "UNKNOWN": 238,
+            "ENGLISH": 105,
+            "JAPANESE": 34
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.631,
+            "ENGLISH": 0.279,
+            "JAPANESE": 0.09
+        }
+    },
+    {
+        "title": "One More Time (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "ONE SPARK",
+        "lang_comp_sorted": {
+            "ENGLISH": 1291,
+            "UNKNOWN": 203,
+            "KOREAN": 36
+        },
+        "lang_percent": {
+            "ENGLISH": 0.844,
+            "UNKNOWN": 0.133,
+            "KOREAN": 0.024
+        }
+    },
+    {
+        "title": "ONE SPARK (English ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2160,
+            "UNKNOWN": 118
+        },
+        "lang_percent": {
+            "ENGLISH": 0.948,
+            "UNKNOWN": 0.052
+        }
+    },
+    {
+        "title": "ONE SPARK (House ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2432,
+            "UNKNOWN": 104
+        },
+        "lang_percent": {
+            "ENGLISH": 0.959,
+            "UNKNOWN": 0.041
+        }
+    },
+    {
+        "title": "ONE SPARK (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "ONE SPARK -Japanese ver.-",
+        "lang_comp_sorted": {
+            "ENGLISH": 1363,
+            "UNKNOWN": 107,
+            "JAPANESE": 31
+        },
+        "lang_percent": {
+            "ENGLISH": 0.908,
+            "UNKNOWN": 0.071,
+            "JAPANESE": 0.021
+        }
+    },
+    {
+        "title": "ONE SPARK (Rave ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1977,
+            "UNKNOWN": 144
+        },
+        "lang_percent": {
+            "ENGLISH": 0.932,
+            "UNKNOWN": 0.068
+        }
+    },
+    {
+        "title": "ONE SPARK (R&B ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1069,
+            "UNKNOWN": 97,
+            "KOREAN": 50
+        },
+        "lang_percent": {
+            "ENGLISH": 0.879,
+            "UNKNOWN": 0.08,
+            "KOREAN": 0.041
+        }
+    },
+    {
+        "title": "ONE SPARK (Tropical ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 990,
+            "UNKNOWN": 393,
+            "KOREAN": 43
+        },
+        "lang_percent": {
+            "ENGLISH": 0.694,
+            "UNKNOWN": 0.276,
+            "KOREAN": 0.03
+        }
+    },
+    {
+        "title": "Only \ub108 (You)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 652,
+            "KOREAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.969,
+            "KOREAN": 0.031
+        }
+    },
+    {
+        "title": "OOH-AHH\ud558\uac8c (Like OOH-AHH)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 552,
+            "KOREAN": 80,
+            "ENGLISH": 32
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.831,
+            "KOREAN": 0.12,
+            "ENGLISH": 0.048
+        }
+    },
+    {
+        "title": "OOH-AHH\ud558\uac8c (Like OOH-AHH) [Instrumental]",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "OPTIONS",
+        "lang_comp_sorted": {
+            "ENGLISH": 2253
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "OXYGEN",
+        "lang_comp_sorted": {
+            "UNKNOWN": 41,
+            "KOREAN": 14
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.745,
+            "KOREAN": 0.255
+        }
+    },
+    {
+        "title": "Pathfinder Voice Memo",
+        "lang_comp_sorted": {
+            "ENGLISH": 395
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "PEACH GELATO",
+        "lang_comp_sorted": {
+            "ENGLISH": 2142
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Peach Soda",
+        "lang_comp_sorted": {
+            "UNKNOWN": 276,
+            "ENGLISH": 233,
+            "JAPANESE": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.518,
+            "ENGLISH": 0.437,
+            "JAPANESE": 0.045
+        }
+    },
+    {
+        "title": "Perfect World",
+        "lang_comp_sorted": {
+            "ENGLISH": 255,
+            "UNKNOWN": 40,
+            "JAPANESE": 27
+        },
+        "lang_percent": {
+            "ENGLISH": 0.792,
+            "UNKNOWN": 0.124,
+            "JAPANESE": 0.084
+        }
+    },
+    {
+        "title": "PIECES OF LOVE",
+        "lang_comp_sorted": {
+            "ENGLISH": 722,
+            "UNKNOWN": 153,
+            "JAPANESE": 26
+        },
+        "lang_percent": {
+            "ENGLISH": 0.801,
+            "UNKNOWN": 0.17,
+            "JAPANESE": 0.029
+        }
+    },
+    {
+        "title": "Pink Lemonade",
+        "lang_comp_sorted": {
+            "ENGLISH": 164,
+            "JAPANESE": 24,
+            "UNKNOWN": 23
+        },
+        "lang_percent": {
+            "ENGLISH": 0.777,
+            "JAPANESE": 0.114,
+            "UNKNOWN": 0.109
+        }
+    },
+    {
+        "title": "Pink Lemonade (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "PIT-A-PAT",
+        "lang_comp_sorted": {
+            "UNKNOWN": 322,
+            "KOREAN": 234,
+            "ENGLISH": 34,
+            "SLOVAK": 7
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.539,
+            "KOREAN": 0.392,
+            "ENGLISH": 0.057,
+            "SLOVAK": 0.012
+        }
+    },
+    {
+        "title": "POLISH",
+        "lang_comp_sorted": {
+            "UNKNOWN": 500,
+            "ENGLISH": 34,
+            "JAPANESE": 19
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.904,
+            "ENGLISH": 0.061,
+            "JAPANESE": 0.034
+        }
+    },
+    {
+        "title": "PONYTAIL",
+        "lang_comp_sorted": {
+            "UNKNOWN": 174,
+            "ENGLISH": 81,
+            "KOREAN": 44
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.582,
+            "ENGLISH": 0.271,
+            "KOREAN": 0.147
+        }
+    },
+    {
+        "title": "\uc18c\uc911\ud55c \uc0ac\ub791 (Precious Love)",
+        "lang_comp_sorted": {
+            "KOREAN": 164,
+            "ENGLISH": 75,
+            "UNKNOWN": 32
+        },
+        "lang_percent": {
+            "KOREAN": 0.605,
+            "ENGLISH": 0.277,
+            "UNKNOWN": 0.118
+        }
+    },
+    {
+        "title": "PROMISE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 77,
+            "JAPANESE": 44
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.636,
+            "JAPANESE": 0.364
+        }
+    },
+    {
+        "title": "PUSH & PULL",
+        "lang_comp_sorted": {
+            "ENGLISH": 963,
+            "KOREAN": 29,
+            "UNKNOWN": 13
+        },
+        "lang_percent": {
+            "ENGLISH": 0.958,
+            "KOREAN": 0.029,
+            "UNKNOWN": 0.013
+        }
+    },
+    {
+        "title": "QUEEN",
+        "lang_comp_sorted": {
+            "ENGLISH": 331,
+            "UNKNOWN": 315,
+            "KOREAN": 46
+        },
+        "lang_percent": {
+            "ENGLISH": 0.478,
+            "UNKNOWN": 0.455,
+            "KOREAN": 0.066
+        }
+    },
+    {
+        "title": "Queen of Hearts",
+        "lang_comp_sorted": {
+            "ENGLISH": 2287
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "RAINBOW",
+        "lang_comp_sorted": {
+            "UNKNOWN": 326,
+            "ENGLISH": 162,
+            "KOREAN": 111
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.544,
+            "ENGLISH": 0.27,
+            "KOREAN": 0.185
+        }
+    },
+    {
+        "title": "Ready To Be with Dahyun & Chaeyoung & Tzuyu",
+        "lang_comp_sorted": {
+            "ENGLISH": 323,
+            "UNKNOWN": 91
+        },
+        "lang_percent": {
+            "ENGLISH": 0.78,
+            "UNKNOWN": 0.22
+        }
+    },
+    {
+        "title": "Ready To Be with Jeongyeon & Momo",
+        "lang_comp_sorted": {
+            "ENGLISH": 639
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Ready To Be with Jihyo & Nayeon",
+        "lang_comp_sorted": {
+            "ENGLISH": 392
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Ready To Be with Sana & Mina",
+        "lang_comp_sorted": {
+            "ENGLISH": 574
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "REAL YOU",
+        "lang_comp_sorted": {
+            "UNKNOWN": 441,
+            "ENGLISH": 174,
+            "KOREAN": 32
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.682,
+            "ENGLISH": 0.269,
+            "KOREAN": 0.049
+        }
+    },
+    {
+        "title": "\uc54c\uace0 \uc2f6\uc9c0 \uc54a\uc544 (REWIND)",
+        "lang_comp_sorted": {
+            "KOREAN": 88,
+            "UNKNOWN": 14
+        },
+        "lang_percent": {
+            "KOREAN": 0.863,
+            "UNKNOWN": 0.137
+        }
+    },
+    {
+        "title": "Rewind you",
+        "lang_comp_sorted": {
+            "UNKNOWN": 293,
+            "ENGLISH": 74,
+            "JAPANESE": 49
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.704,
+            "ENGLISH": 0.178,
+            "JAPANESE": 0.118
+        }
+    },
+    {
+        "title": "RIGHT HAND GIRL",
+        "lang_comp_sorted": {
+            "ENGLISH": 2544
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "ROLLIN\u2019",
+        "lang_comp_sorted": {
+            "UNKNOWN": 125,
+            "KOREAN": 20
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.862,
+            "KOREAN": 0.138
+        }
+    },
+    {
+        "title": "RUNWAY",
+        "lang_comp_sorted": {
+            "ENGLISH": 1285,
+            "JAPANESE": 37,
+            "UNKNOWN": 13
+        },
+        "lang_percent": {
+            "ENGLISH": 0.963,
+            "JAPANESE": 0.028,
+            "UNKNOWN": 0.01
+        }
+    },
+    {
+        "title": "RUSH",
+        "lang_comp_sorted": {
+            "ENGLISH": 1568,
+            "KOREAN": 38,
+            "UNKNOWN": 18,
+            "XHOSA": 4
+        },
+        "lang_percent": {
+            "ENGLISH": 0.963,
+            "KOREAN": 0.023,
+            "UNKNOWN": 0.011,
+            "XHOSA": 0.002
+        }
+    },
+    {
+        "title": "Sandcastle",
+        "lang_comp_sorted": {
+            "UNKNOWN": 421,
+            "JAPANESE": 20
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.955,
+            "JAPANESE": 0.045
+        }
+    },
+    {
+        "title": "Say It Again",
+        "lang_comp_sorted": {
+            "UNKNOWN": 529,
+            "JAPANESE": 28,
+            "INDONESIAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.915,
+            "JAPANESE": 0.048,
+            "INDONESIAN": 0.036
+        }
+    },
+    {
+        "title": "SAY SOMETHING",
+        "lang_comp_sorted": {
+            "UNKNOWN": 459,
+            "KOREAN": 91,
+            "ENGLISH": 35
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.785,
+            "KOREAN": 0.156,
+            "ENGLISH": 0.06
+        }
+    },
+    {
+        "title": "SAY YES",
+        "lang_comp_sorted": {
+            "UNKNOWN": 165,
+            "KOREAN": 67
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.711,
+            "KOREAN": 0.289
+        }
+    },
+    {
+        "title": "SAY YOU LOVE ME",
+        "lang_comp_sorted": {
+            "UNKNOWN": 563,
+            "KOREAN": 104,
+            "ENGLISH": 96
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.738,
+            "KOREAN": 0.136,
+            "ENGLISH": 0.126
+        }
+    },
+    {
+        "title": "Scandal",
+        "lang_comp_sorted": {
+            "ENGLISH": 1349,
+            "UNKNOWN": 25,
+            "KOREAN": 18
+        },
+        "lang_percent": {
+            "ENGLISH": 0.969,
+            "UNKNOWN": 0.018,
+            "KOREAN": 0.013
+        }
+    },
+    {
+        "title": "SCIENTIST",
+        "lang_comp_sorted": {
+            "UNKNOWN": 394,
+            "ENGLISH": 335,
+            "KOREAN": 33
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.517,
+            "ENGLISH": 0.44,
+            "KOREAN": 0.043
+        }
+    },
+    {
+        "title": "SCIENTIST -Japanese ver.-",
+        "lang_comp_sorted": {
+            "UNKNOWN": 529,
+            "ENGLISH": 333,
+            "JAPANESE": 19
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.6,
+            "ENGLISH": 0.378,
+            "JAPANESE": 0.022
+        }
+    },
+    {
+        "title": "SCIENTIST (R3HAB Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 377,
+            "UNKNOWN": 207,
+            "KOREAN": 33
+        },
+        "lang_percent": {
+            "ENGLISH": 0.611,
+            "UNKNOWN": 0.335,
+            "KOREAN": 0.053
+        }
+    },
+    {
+        "title": "Scorpion",
+        "lang_comp_sorted": {
+            "UNKNOWN": 571,
+            "JAPANESE": 142,
+            "ENGLISH": 53
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.745,
+            "JAPANESE": 0.185,
+            "ENGLISH": 0.069
+        }
+    },
+    {
+        "title": "Scorpion (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "SEESAW",
+        "lang_comp_sorted": {
+            "UNKNOWN": 704,
+            "ENGLISH": 679,
+            "KOREAN": 28
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.499,
+            "ENGLISH": 0.481,
+            "KOREAN": 0.02
+        }
+    },
+    {
+        "title": "SET ME FREE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 361,
+            "ENGLISH": 54,
+            "KOREAN": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.82,
+            "ENGLISH": 0.123,
+            "KOREAN": 0.057
+        }
+    },
+    {
+        "title": "SET ME FREE (ARMNHMR Remix) (ENG)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1858,
+            "UNKNOWN": 171
+        },
+        "lang_percent": {
+            "ENGLISH": 0.916,
+            "UNKNOWN": 0.084
+        }
+    },
+    {
+        "title": "SET ME FREE (Carneyval Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2449,
+            "UNKNOWN": 169
+        },
+        "lang_percent": {
+            "ENGLISH": 0.935,
+            "UNKNOWN": 0.065
+        }
+    },
+    {
+        "title": "SET ME FREE (ENG)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2298,
+            "UNKNOWN": 145
+        },
+        "lang_percent": {
+            "ENGLISH": 0.941,
+            "UNKNOWN": 0.059
+        }
+    },
+    {
+        "title": "SET ME FREE -Japanese ver.-",
+        "lang_comp_sorted": {
+            "UNKNOWN": 368,
+            "JAPANESE": 24
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.939,
+            "JAPANESE": 0.061
+        }
+    },
+    {
+        "title": "SET ME FREE (Lindgren Remix)",
+        "lang_comp_sorted": {
+            "KOREAN": 38,
+            "UNKNOWN": 31,
+            "ENGLISH": 27
+        },
+        "lang_percent": {
+            "KOREAN": 0.396,
+            "UNKNOWN": 0.323,
+            "ENGLISH": 0.281
+        }
+    },
+    {
+        "title": "SET ME FREE (Lindgren Remix) (ENG)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1971,
+            "UNKNOWN": 177
+        },
+        "lang_percent": {
+            "ENGLISH": 0.918,
+            "UNKNOWN": 0.082
+        }
+    },
+    {
+        "title": "SET ME FREE (Tommy \u2018TBHits\u2019 Brown Remix)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 422,
+            "ENGLISH": 52,
+            "KOREAN": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.846,
+            "ENGLISH": 0.104,
+            "KOREAN": 0.05
+        }
+    },
+    {
+        "title": "SET ME FREE (Tommy \u2018TBHits\u2019 Brown Remix) (ENG)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2659
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "SHADOW",
+        "lang_comp_sorted": {
+            "UNKNOWN": 180,
+            "KOREAN": 93
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.659,
+            "KOREAN": 0.341
+        }
+    },
+    {
+        "title": "SHOT CLOCK",
+        "lang_comp_sorted": {
+            "ENGLISH": 598,
+            "UNKNOWN": 264,
+            "KOREAN": 11
+        },
+        "lang_percent": {
+            "ENGLISH": 0.685,
+            "UNKNOWN": 0.302,
+            "KOREAN": 0.013
+        }
+    },
+    {
+        "title": "Shot thru the heart",
+        "lang_comp_sorted": {
+            "UNKNOWN": 550,
+            "ENGLISH": 167,
+            "KOREAN": 75
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.694,
+            "ENGLISH": 0.211,
+            "KOREAN": 0.095
+        }
+    },
+    {
+        "title": "SIGNAL",
+        "lang_comp_sorted": {
+            "ENGLISH": 227,
+            "KOREAN": 174,
+            "UNKNOWN": 35
+        },
+        "lang_percent": {
+            "ENGLISH": 0.521,
+            "KOREAN": 0.399,
+            "UNKNOWN": 0.08
+        }
+    },
+    {
+        "title": "SIGNAL (Japanese Ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 237,
+            "UNKNOWN": 36,
+            "JAPANESE": 25
+        },
+        "lang_percent": {
+            "ENGLISH": 0.795,
+            "UNKNOWN": 0.121,
+            "JAPANESE": 0.084
+        }
+    },
+    {
+        "title": "So Hot (Cover)",
+        "lang_comp_sorted": {
+            "ENGLISH": 315,
+            "UNKNOWN": 54,
+            "KOREAN": 24
+        },
+        "lang_percent": {
+            "ENGLISH": 0.802,
+            "UNKNOWN": 0.137,
+            "KOREAN": 0.061
+        }
+    },
+    {
+        "title": "Someone Like Me",
+        "lang_comp_sorted": {
+            "KOREAN": 73,
+            "ENGLISH": 71,
+            "UNKNOWN": 70,
+            "PORTUGUESE": 11
+        },
+        "lang_percent": {
+            "KOREAN": 0.324,
+            "ENGLISH": 0.316,
+            "UNKNOWN": 0.311,
+            "PORTUGUESE": 0.049
+        }
+    },
+    {
+        "title": "SOS",
+        "lang_comp_sorted": {
+            "ENGLISH": 491,
+            "UNKNOWN": 124,
+            "KOREAN": 78
+        },
+        "lang_percent": {
+            "ENGLISH": 0.709,
+            "UNKNOWN": 0.179,
+            "KOREAN": 0.113
+        }
+    },
+    {
+        "title": "Special Message from DAHYUN, CHAEYOUNG, TZUYU",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Special Message from NAYEON, JEONGYEON, MOMO",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Special Message from SANA, JIHYO, MINA",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "STAY BY MY SIDE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 413,
+            "ENGLISH": 206,
+            "JAPANESE": 33
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.633,
+            "ENGLISH": 0.316,
+            "JAPANESE": 0.051
+        }
+    },
+    {
+        "title": "STONE COLD",
+        "lang_comp_sorted": {
+            "ENGLISH": 882
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Strategy",
+        "lang_comp_sorted": {
+            "ENGLISH": 3181,
+            "UNKNOWN": 291
+        },
+        "lang_percent": {
+            "ENGLISH": 0.916,
+            "UNKNOWN": 0.084
+        }
+    },
+    {
+        "title": "Strategy (House)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2111,
+            "UNKNOWN": 324
+        },
+        "lang_percent": {
+            "ENGLISH": 0.867,
+            "UNKNOWN": 0.133
+        }
+    },
+    {
+        "title": "Strategy (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Strategy (Moombahton)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2296,
+            "UNKNOWN": 179
+        },
+        "lang_percent": {
+            "ENGLISH": 0.928,
+            "UNKNOWN": 0.072
+        }
+    },
+    {
+        "title": "Strategy (Slom Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2231,
+            "UNKNOWN": 179
+        },
+        "lang_percent": {
+            "ENGLISH": 0.926,
+            "UNKNOWN": 0.074
+        }
+    },
+    {
+        "title": "Strategy (TWICE Ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2025,
+            "UNKNOWN": 299
+        },
+        "lang_percent": {
+            "ENGLISH": 0.871,
+            "UNKNOWN": 0.129
+        }
+    },
+    {
+        "title": "Strategy (version 1.0)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2276,
+            "UNKNOWN": 303
+        },
+        "lang_percent": {
+            "ENGLISH": 0.883,
+            "UNKNOWN": 0.117
+        }
+    },
+    {
+        "title": "STRAWBERRY",
+        "lang_comp_sorted": {
+            "UNKNOWN": 668,
+            "ENGLISH": 52,
+            "KOREAN": 31
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.889,
+            "ENGLISH": 0.069,
+            "KOREAN": 0.041
+        }
+    },
+    {
+        "title": "Strawberry Moon",
+        "lang_comp_sorted": {
+            "UNKNOWN": 509,
+            "ENGLISH": 155,
+            "JAPANESE": 37
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.726,
+            "ENGLISH": 0.221,
+            "JAPANESE": 0.053
+        }
+    },
+    {
+        "title": "Strawberry Moon (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Stronger",
+        "lang_comp_sorted": {
+            "UNKNOWN": 408,
+            "JAPANESE": 51
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.889,
+            "JAPANESE": 0.111
+        }
+    },
+    {
+        "title": "STUCK",
+        "lang_comp_sorted": {
+            "UNKNOWN": 211,
+            "KOREAN": 30
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.876,
+            "KOREAN": 0.124
+        }
+    },
+    {
+        "title": "STUCK IN MY HEAD",
+        "lang_comp_sorted": {
+            "UNKNOWN": 562,
+            "ENGLISH": 111,
+            "KOREAN": 35
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.794,
+            "ENGLISH": 0.157,
+            "KOREAN": 0.049
+        }
+    },
+    {
+        "title": "STUCK IN MY HEAD (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 540,
+            "ENGLISH": 150,
+            "JAPANESE": 67
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.713,
+            "ENGLISH": 0.198,
+            "JAPANESE": 0.089
+        }
+    },
+    {
+        "title": "SUNSET",
+        "lang_comp_sorted": {
+            "ENGLISH": 73,
+            "KOREAN": 62,
+            "DANISH": 60,
+            "UNKNOWN": 16
+        },
+        "lang_percent": {
+            "ENGLISH": 0.346,
+            "KOREAN": 0.294,
+            "DANISH": 0.284,
+            "UNKNOWN": 0.076
+        }
+    },
+    {
+        "title": "superstars",
+        "lang_comp_sorted": {
+            "ENGLISH": 2555,
+            "UNKNOWN": 107
+        },
+        "lang_percent": {
+            "ENGLISH": 0.96,
+            "UNKNOWN": 0.04
+        }
+    },
+    {
+        "title": "Sweetest Obsession",
+        "lang_comp_sorted": {
+            "UNKNOWN": 867,
+            "ENGLISH": 167,
+            "KOREAN": 15
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.827,
+            "ENGLISH": 0.159,
+            "KOREAN": 0.014
+        }
+    },
+    {
+        "title": "SWEET SUMMER DAY",
+        "lang_comp_sorted": {
+            "UNKNOWN": 495,
+            "KOREAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.959,
+            "KOREAN": 0.041
+        }
+    },
+    {
+        "title": "SWEET TALKER",
+        "lang_comp_sorted": {
+            "UNKNOWN": 387,
+            "KOREAN": 19
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.953,
+            "KOREAN": 0.047
+        }
+    },
+    {
+        "title": "SWING",
+        "lang_comp_sorted": {
+            "UNKNOWN": 535,
+            "JAPANESE": 49,
+            "ENGLISH": 38
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.86,
+            "JAPANESE": 0.079,
+            "ENGLISH": 0.061
+        }
+    },
+    {
+        "title": "\ub098\ub85c \ubc14\uafb8\uc790 (Switch to Me)",
+        "lang_comp_sorted": {
+            "KOREAN": 102,
+            "UNKNOWN": 27
+        },
+        "lang_percent": {
+            "KOREAN": 0.791,
+            "UNKNOWN": 0.209
+        }
+    },
+    {
+        "title": "TAKEDOWN",
+        "lang_comp_sorted": {
+            "ENGLISH": 2453,
+            "UNKNOWN": 156,
+            "KOREAN": 32
+        },
+        "lang_percent": {
+            "ENGLISH": 0.929,
+            "UNKNOWN": 0.059,
+            "KOREAN": 0.012
+        }
+    },
+    {
+        "title": "TALK",
+        "lang_comp_sorted": {
+            "ENGLISH": 2120,
+            "UNKNOWN": 210
+        },
+        "lang_percent": {
+            "ENGLISH": 0.91,
+            "UNKNOWN": 0.09
+        }
+    },
+    {
+        "title": "Talk that Talk",
+        "lang_comp_sorted": {
+            "ENGLISH": 776,
+            "UNKNOWN": 133,
+            "KOREAN": 51
+        },
+        "lang_percent": {
+            "ENGLISH": 0.808,
+            "UNKNOWN": 0.139,
+            "KOREAN": 0.053
+        }
+    },
+    {
+        "title": "Talk that Talk -Japanese ver.-",
+        "lang_comp_sorted": {
+            "ENGLISH": 888,
+            "UNKNOWN": 137,
+            "JAPANESE": 61
+        },
+        "lang_percent": {
+            "ENGLISH": 0.818,
+            "UNKNOWN": 0.126,
+            "JAPANESE": 0.056
+        }
+    },
+    {
+        "title": "Thank you, Family",
+        "lang_comp_sorted": {
+            "ENGLISH": 90,
+            "UNKNOWN": 81,
+            "JAPANESE": 43
+        },
+        "lang_percent": {
+            "ENGLISH": 0.421,
+            "UNKNOWN": 0.379,
+            "JAPANESE": 0.201
+        }
+    },
+    {
+        "title": "That\u2019s all I\u2019m saying",
+        "lang_comp_sorted": {
+            "UNKNOWN": 250,
+            "ENGLISH": 71,
+            "JAPANESE": 38
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.696,
+            "ENGLISH": 0.198,
+            "JAPANESE": 0.106
+        }
+    },
+    {
+        "title": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c (The Best Thing I Ever Did)",
+        "lang_comp_sorted": {
+            "ENGLISH": 243,
+            "KOREAN": 61,
+            "UNKNOWN": 26,
+            "INDONESIAN": 25
+        },
+        "lang_percent": {
+            "ENGLISH": 0.685,
+            "KOREAN": 0.172,
+            "UNKNOWN": 0.073,
+            "INDONESIAN": 0.07
+        }
+    },
+    {
+        "title": "The Best Thing I Ever Did (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 319,
+            "JAPANESE": 59,
+            "ENGLISH": 54
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.738,
+            "JAPANESE": 0.137,
+            "ENGLISH": 0.125
+        }
+    },
+    {
+        "title": "The Feels",
+        "lang_comp_sorted": {
+            "ENGLISH": 2866,
+            "UNKNOWN": 137
+        },
+        "lang_percent": {
+            "ENGLISH": 0.954,
+            "UNKNOWN": 0.046
+        }
+    },
+    {
+        "title": "The Feels (Benny Benassi Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2112,
+            "UNKNOWN": 196
+        },
+        "lang_percent": {
+            "ENGLISH": 0.915,
+            "UNKNOWN": 0.085
+        }
+    },
+    {
+        "title": "The Feels (Benny Benassi Remix Extended)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2373,
+            "UNKNOWN": 100
+        },
+        "lang_percent": {
+            "ENGLISH": 0.96,
+            "UNKNOWN": 0.04
+        }
+    },
+    {
+        "title": "The Feels (Benny Benassi Remix) [Instrumental]",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "The Feels (Ian Asher Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 493,
+            "UNKNOWN": 139
+        },
+        "lang_percent": {
+            "ENGLISH": 0.78,
+            "UNKNOWN": 0.22
+        }
+    },
+    {
+        "title": "The Feels (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "The Feels (Korean Ver.)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1837,
+            "UNKNOWN": 44,
+            "KOREAN": 29
+        },
+        "lang_percent": {
+            "ENGLISH": 0.962,
+            "UNKNOWN": 0.023,
+            "KOREAN": 0.015
+        }
+    },
+    {
+        "title": "The Feels (The Stereotypes Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2461,
+            "UNKNOWN": 194
+        },
+        "lang_percent": {
+            "ENGLISH": 0.927,
+            "UNKNOWN": 0.073
+        }
+    },
+    {
+        "title": "The Feels (The Stereotypes Remix) [Instrumental]",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "The Feels Voice Memo 1: Dahyun & Tzuyu",
+        "lang_comp_sorted": {
+            "ENGLISH": 818
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "The Feels Voice Memo 2: Momo & Mina",
+        "lang_comp_sorted": {
+            "ENGLISH": 833
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "The Feels Voice Memo 3: Nayeon & Chaeyoung",
+        "lang_comp_sorted": {
+            "ENGLISH": 866,
+            "UNKNOWN": 118
+        },
+        "lang_percent": {
+            "ENGLISH": 0.88,
+            "UNKNOWN": 0.12
+        }
+    },
+    {
+        "title": "The Feels Voice Memo 4: Sana & Jihyo",
+        "lang_comp_sorted": {
+            "ENGLISH": 905,
+            "KOREAN": 38,
+            "UNKNOWN": 9
+        },
+        "lang_percent": {
+            "ENGLISH": 0.951,
+            "KOREAN": 0.04,
+            "UNKNOWN": 0.009
+        }
+    },
+    {
+        "title": "The Feels (YVES V Remix)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1841,
+            "UNKNOWN": 106
+        },
+        "lang_percent": {
+            "ENGLISH": 0.946,
+            "UNKNOWN": 0.054
+        }
+    },
+    {
+        "title": "The Feels (YVES V Remix) [Instrumental]",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "The Reason Why",
+        "lang_comp_sorted": {
+            "UNKNOWN": 178,
+            "ENGLISH": 69,
+            "JAPANESE": 52
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.595,
+            "ENGLISH": 0.231,
+            "JAPANESE": 0.174
+        }
+    },
+    {
+        "title": "The wish",
+        "lang_comp_sorted": {
+            "UNKNOWN": 443,
+            "ENGLISH": 144,
+            "JAPANESE": 41
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.705,
+            "ENGLISH": 0.229,
+            "JAPANESE": 0.065
+        }
+    },
+    {
+        "title": "THIS IS FOR",
+        "lang_comp_sorted": {
+            "ENGLISH": 2320
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "THIS IS FOR (Extended)",
+        "lang_comp_sorted": {
+            "ENGLISH": 2498
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "\ud558\ub8e8\uc5d0 \uc138\ubc88 (Three Times a Day)",
+        "lang_comp_sorted": {
+            "KOREAN": 25,
+            "ENGLISH": 24,
+            "UNKNOWN": 4
+        },
+        "lang_percent": {
+            "KOREAN": 0.472,
+            "ENGLISH": 0.453,
+            "UNKNOWN": 0.075
+        }
+    },
+    {
+        "title": "TICK TOCK",
+        "lang_comp_sorted": {
+            "UNKNOWN": 944,
+            "ENGLISH": 79,
+            "JAPANESE": 35
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.892,
+            "ENGLISH": 0.075,
+            "JAPANESE": 0.033
+        }
+    },
+    {
+        "title": "Touchdown",
+        "lang_comp_sorted": {
+            "UNKNOWN": 324,
+            "KOREAN": 137
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.703,
+            "KOREAN": 0.297
+        }
+    },
+    {
+        "title": "TRICK IT",
+        "lang_comp_sorted": {
+            "UNKNOWN": 301,
+            "ENGLISH": 38,
+            "KOREAN": 23
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.831,
+            "ENGLISH": 0.105,
+            "KOREAN": 0.064
+        }
+    },
+    {
+        "title": "Trouble",
+        "lang_comp_sorted": {
+            "UNKNOWN": 729,
+            "ENGLISH": 137,
+            "KOREAN": 67
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.781,
+            "ENGLISH": 0.147,
+            "KOREAN": 0.072
+        }
+    },
+    {
+        "title": "Truth",
+        "lang_comp_sorted": {
+            "ENGLISH": 1071,
+            "KOREAN": 24,
+            "UNKNOWN": 12
+        },
+        "lang_percent": {
+            "ENGLISH": 0.967,
+            "KOREAN": 0.022,
+            "UNKNOWN": 0.011
+        }
+    },
+    {
+        "title": "TT",
+        "lang_comp_sorted": {
+            "UNKNOWN": 532,
+            "KOREAN": 114,
+            "ENGLISH": 92
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.721,
+            "KOREAN": 0.154,
+            "ENGLISH": 0.125
+        }
+    },
+    {
+        "title": "TT (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "TT (Japanese Ver.)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 494,
+            "ENGLISH": 98,
+            "JAPANESE": 73
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.743,
+            "ENGLISH": 0.147,
+            "JAPANESE": 0.11
+        }
+    },
+    {
+        "title": "TT (TAK Remix)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 409,
+            "KOREAN": 97,
+            "ENGLISH": 58
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.725,
+            "KOREAN": 0.172,
+            "ENGLISH": 0.103
+        }
+    },
+    {
+        "title": "\ud22d\ud558\uba74 \ud1a1 (Tuk Tok)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 243,
+            "KOREAN": 50
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.829,
+            "KOREAN": 0.171
+        }
+    },
+    {
+        "title": "TURN IT UP",
+        "lang_comp_sorted": {
+            "UNKNOWN": 533,
+            "ENGLISH": 161,
+            "KOREAN": 21
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.745,
+            "ENGLISH": 0.225,
+            "KOREAN": 0.029
+        }
+    },
+    {
+        "title": "\uac70\ubd81\uc774 (TURTLE)",
+        "lang_comp_sorted": {
+            "KOREAN": 82,
+            "ENGLISH": 56,
+            "UNKNOWN": 26
+        },
+        "lang_percent": {
+            "KOREAN": 0.5,
+            "ENGLISH": 0.341,
+            "UNKNOWN": 0.159
+        }
+    },
+    {
+        "title": "\ud2b8\uc640\uc774\uc2a4 \uc1a1 (TWICE Song)",
+        "lang_comp_sorted": {
+            "KOREAN": 90,
+            "UNKNOWN": 60
+        },
+        "lang_percent": {
+            "KOREAN": 0.6,
+            "UNKNOWN": 0.4
+        }
+    },
+    {
+        "title": "UP NO MORE",
+        "lang_comp_sorted": {
+            "UNKNOWN": 335,
+            "KOREAN": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.931,
+            "KOREAN": 0.069
+        }
+    },
+    {
+        "title": "Up to you",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Voice Memo 1",
+        "lang_comp_sorted": {
+            "ENGLISH": 704
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Voice memo 1 from TWICE",
+        "lang_comp_sorted": {
+            "ENGLISH": 822
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Voice Memo 2",
+        "lang_comp_sorted": {
+            "ENGLISH": 804,
+            "KOREAN": 42
+        },
+        "lang_percent": {
+            "ENGLISH": 0.95,
+            "KOREAN": 0.05
+        }
+    },
+    {
+        "title": "Voice memo 2 from TWICE",
+        "lang_comp_sorted": {
+            "ENGLISH": 1342
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Voice Memo 3",
+        "lang_comp_sorted": {
+            "ENGLISH": 534,
+            "UNKNOWN": 8
+        },
+        "lang_percent": {
+            "ENGLISH": 0.985,
+            "UNKNOWN": 0.015
+        }
+    },
+    {
+        "title": "Voice Memo 4",
+        "lang_comp_sorted": {
+            "ENGLISH": 771
+        },
+        "lang_percent": {
+            "ENGLISH": 1.0
+        }
+    },
+    {
+        "title": "Voices of Delight",
+        "lang_comp_sorted": {
+            "ENGLISH": 351,
+            "UNKNOWN": 48,
+            "JAPANESE": 44
+        },
+        "lang_percent": {
+            "ENGLISH": 0.792,
+            "UNKNOWN": 0.108,
+            "JAPANESE": 0.099
+        }
+    },
+    {
+        "title": "Wah Wah Wah",
+        "lang_comp_sorted": {
+            "UNKNOWN": 120,
+            "ENGLISH": 89,
+            "JAPANESE": 20
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.524,
+            "ENGLISH": 0.389,
+            "JAPANESE": 0.087
+        }
+    },
+    {
+        "title": "Wake Me Up",
+        "lang_comp_sorted": {
+            "UNKNOWN": 600,
+            "ENGLISH": 172,
+            "JAPANESE": 25
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.753,
+            "ENGLISH": 0.216,
+            "JAPANESE": 0.031
+        }
+    },
+    {
+        "title": "Wake Me Up (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "WALLFLOWER",
+        "lang_comp_sorted": {
+            "ENGLISH": 1010,
+            "KOREAN": 90,
+            "UNKNOWN": 76
+        },
+        "lang_percent": {
+            "ENGLISH": 0.859,
+            "KOREAN": 0.077,
+            "UNKNOWN": 0.065
+        }
+    },
+    {
+        "title": "WE PRAY (TWICE Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 1943,
+            "UNKNOWN": 525,
+            "KOREAN": 52
+        },
+        "lang_percent": {
+            "ENGLISH": 0.771,
+            "UNKNOWN": 0.208,
+            "KOREAN": 0.021
+        }
+    },
+    {
+        "title": "What Is Love?",
+        "lang_comp_sorted": {
+            "UNKNOWN": 251,
+            "KOREAN": 40
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.863,
+            "KOREAN": 0.137
+        }
+    },
+    {
+        "title": "What is Love? (Japanese Version)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 538,
+            "JAPANESE": 102,
+            "ENGLISH": 35
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.797,
+            "JAPANESE": 0.151,
+            "ENGLISH": 0.052
+        }
+    },
+    {
+        "title": "What You Waiting For",
+        "lang_comp_sorted": {
+            "ENGLISH": 2503,
+            "UNKNOWN": 147
+        },
+        "lang_percent": {
+            "ENGLISH": 0.945,
+            "UNKNOWN": 0.055
+        }
+    },
+    {
+        "title": "When We Were Kids",
+        "lang_comp_sorted": {
+            "ENGLISH": 1191,
+            "KOREAN": 24,
+            "UNKNOWN": 19
+        },
+        "lang_percent": {
+            "ENGLISH": 0.965,
+            "KOREAN": 0.019,
+            "UNKNOWN": 0.015
+        }
+    },
+    {
+        "title": "Wishing",
+        "lang_comp_sorted": {
+            "JAPANESE": 264,
+            "ENGLISH": 75,
+            "UNKNOWN": 20
+        },
+        "lang_percent": {
+            "JAPANESE": 0.735,
+            "ENGLISH": 0.209,
+            "UNKNOWN": 0.056
+        }
+    },
+    {
+        "title": "Wonderful Day",
+        "lang_comp_sorted": {
+            "UNKNOWN": 268,
+            "ENGLISH": 57,
+            "JAPANESE": 49
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.717,
+            "ENGLISH": 0.152,
+            "JAPANESE": 0.131
+        }
+    },
+    {
+        "title": "Wonderful Day (Instrumental)",
+        "lang_comp_sorted": {
+            "NONE": 0
+        },
+        "lang_percent": {
+            "NONE": 0
+        }
+    },
+    {
+        "title": "Woohoo",
+        "lang_comp_sorted": {
+            "UNKNOWN": 445,
+            "ENGLISH": 180,
+            "KOREAN": 34
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.675,
+            "ENGLISH": 0.273,
+            "KOREAN": 0.052
+        }
+    },
+    {
+        "title": "WOW",
+        "lang_comp_sorted": {
+            "ENGLISH": 69,
+            "KOREAN": 29,
+            "UNKNOWN": 9
+        },
+        "lang_percent": {
+            "ENGLISH": 0.645,
+            "KOREAN": 0.271,
+            "UNKNOWN": 0.084
+        }
+    },
+    {
+        "title": "YES or YES",
+        "lang_comp_sorted": {
+            "ENGLISH": 318,
+            "UNKNOWN": 89,
+            "KOREAN": 44
+        },
+        "lang_percent": {
+            "ENGLISH": 0.705,
+            "UNKNOWN": 0.197,
+            "KOREAN": 0.098
+        }
+    },
+    {
+        "title": "YES or YES (Japanese Version)",
+        "lang_comp_sorted": {
+            "ENGLISH": 370,
+            "UNKNOWN": 83,
+            "JAPANESE": 38
+        },
+        "lang_percent": {
+            "ENGLISH": 0.754,
+            "UNKNOWN": 0.169,
+            "JAPANESE": 0.077
+        }
+    },
+    {
+        "title": "Y.M.C.A (Cover)",
+        "lang_comp_sorted": {
+            "UNKNOWN": 445,
+            "ENGLISH": 110,
+            "KOREAN": 55
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.73,
+            "ENGLISH": 0.18,
+            "KOREAN": 0.09
+        }
+    },
+    {
+        "title": "YOU GET ME",
+        "lang_comp_sorted": {
+            "ENGLISH": 1290,
+            "UNKNOWN": 140,
+            "KOREAN": 11
+        },
+        "lang_percent": {
+            "ENGLISH": 0.895,
+            "UNKNOWN": 0.097,
+            "KOREAN": 0.008
+        }
+    },
+    {
+        "title": "\ub110 \ub0b4\uac8c \ub2f4\uc544 (YOU IN MY HEART)",
+        "lang_comp_sorted": {
+            "KOREAN": 189,
+            "INDONESIAN": 52,
+            "UNKNOWN": 27
+        },
+        "lang_percent": {
+            "KOREAN": 0.705,
+            "INDONESIAN": 0.194,
+            "UNKNOWN": 0.101
+        }
+    },
+    {
+        "title": "YOUNG & WILD",
+        "lang_comp_sorted": {
+            "UNKNOWN": 306,
+            "ENGLISH": 205,
+            "KOREAN": 60
+        },
+        "lang_percent": {
+            "UNKNOWN": 0.536,
+            "ENGLISH": 0.359,
+            "KOREAN": 0.105
+        }
+    }
+]

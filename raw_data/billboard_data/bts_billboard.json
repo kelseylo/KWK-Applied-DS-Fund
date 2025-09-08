@@ -1,0 +1,145 @@
+{
+    "name": "BTS",
+    "billboard_data": [
+        {
+            "song_name": "Dynamite",
+            "debut_date": "9/19/20",
+            "peak_position": 1,
+            "peak_date": "10/03/20",
+            "weeks_on_chart": 113
+        },
+        {
+            "song_name": "Butter",
+            "debut_date": "6/05/21",
+            "peak_position": 1,
+            "peak_date": "6/05/21",
+            "weeks_on_chart": 73
+        },
+        {
+            "song_name": "Take Two",
+            "debut_date": "6/24/23",
+            "peak_position": 1,
+            "peak_date": "6/24/23",
+            "weeks_on_chart": 7
+        },
+        {
+            "song_name": "My Universe",
+            "debut_date": "10/09/21",
+            "peak_position": 1,
+            "peak_date": "10/09/21",
+            "weeks_on_chart": 59
+        },
+        {
+            "song_name": "Permission To Dance",
+            "debut_date": "7/24/21",
+            "peak_position": 1,
+            "peak_date": "7/24/21",
+            "weeks_on_chart": 43
+        },
+        {
+            "song_name": "Life Goes On",
+            "debut_date": "12/05/20",
+            "peak_position": 1,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 22
+        },
+        {
+            "song_name": "Savage Love (Laxed - Siren Beat)",
+            "debut_date": "9/19/20",
+            "peak_position": 1,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 58
+        },
+        {
+            "song_name": "Yet To Come",
+            "debut_date": "6/25/22",
+            "peak_position": 2,
+            "peak_date": "6/25/22",
+            "weeks_on_chart": 7
+        },
+        {
+            "song_name": "Film Out",
+            "debut_date": "4/17/21",
+            "peak_position": 5,
+            "peak_date": "4/17/21",
+            "weeks_on_chart": 7
+        },
+        {
+            "song_name": "Bad Decisions",
+            "debut_date": "8/20/22",
+            "peak_position": 6,
+            "peak_date": "8/20/22",
+            "weeks_on_chart": 7
+        },
+        {
+            "song_name": "Blue & Grey",
+            "debut_date": "12/05/20",
+            "peak_position": 9,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 2
+        },
+        {
+            "song_name": "Run BTS",
+            "debut_date": "6/25/22",
+            "peak_position": 12,
+            "peak_date": "6/25/22",
+            "weeks_on_chart": 6
+        },
+        {
+            "song_name": "Stay",
+            "debut_date": "12/05/20",
+            "peak_position": 16,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "Fly To My Room",
+            "debut_date": "12/05/20",
+            "peak_position": 22,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 2
+        },
+        {
+            "song_name": "Telepathy",
+            "debut_date": "12/05/20",
+            "peak_position": 28,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 2
+        },
+        {
+            "song_name": "For Youth",
+            "debut_date": "6/25/22",
+            "peak_position": 30,
+            "peak_date": "6/25/22",
+            "weeks_on_chart": 2
+        },
+        {
+            "song_name": "Dis-ease",
+            "debut_date": "12/05/20",
+            "peak_position": 30,
+            "peak_date": "12/05/20",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "Born Singer",
+            "debut_date": "6/25/22",
+            "peak_position": 36,
+            "peak_date": "6/25/22",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "The Planet",
+            "debut_date": "5/27/23",
+            "peak_position": 62,
+            "peak_date": "5/27/23",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "Boy With Luv",
+            "debut_date": "9/19/20",
+            "peak_position": 151,
+            "peak_date": "10/31/20",
+            "weeks_on_chart": 9
+        }
+    ]
+}

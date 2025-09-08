@@ -1,0 +1,229 @@
+{
+    "name": "BLACKPINK",
+    "billboard_data": [
+        {
+            "song_name": "Pink Venom",
+            "debut_date": "9/03/22",
+            "peak_position": 1,
+            "peak_date": "9/03/22",
+            "weeks_on_chart": 30,
+            "lang_percent": {
+                "ENGLISH": 0.736,
+                "UNKNOWN": 0.25,
+                "KOREAN": 0.014
+            }
+        },
+        {
+            "song_name": "Jump",
+            "debut_date": "7/26/25",
+            "peak_position": 1,
+            "peak_date": "7/26/25",
+            "weeks_on_chart": 5,
+            "lang_percent": {
+                "ENGLISH": 0.965,
+                "KOREAN": 0.025,
+                "UNKNOWN": 0.01
+            }
+        },
+        {
+            "song_name": "Shut Down",
+            "debut_date": "10/01/22",
+            "peak_position": 1,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 29,
+            "lang_percent": {
+                "ENGLISH": 0.973,
+                "KOREAN": 0.02,
+                "UNKNOWN": 0.007
+            }
+        },
+        {
+            "song_name": "Lovesick Girls",
+            "debut_date": "10/17/20",
+            "peak_position": 2,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 14,
+            "lang_percent": {
+                "ENGLISH": 0.966,
+                "KOREAN": 0.021,
+                "UNKNOWN": 0.013
+            }
+        },
+        {
+            "song_name": "Ice Cream",
+            "debut_date": "9/19/20",
+            "peak_position": 8,
+            "peak_date": "9/19/20",
+            "weeks_on_chart": 14,
+            "lang_percent": {
+                "ENGLISH": 0.979,
+                "KOREAN": 0.013,
+                "UNKNOWN": 0.008
+            }
+        },
+        {
+            "song_name": "Typa Girl",
+            "debut_date": "10/01/22",
+            "peak_position": 16,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 3,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "How You Like That",
+            "debut_date": "9/19/20",
+            "peak_position": 24,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 34,
+            "lang_percent": {
+                "ENGLISH": 0.765,
+                "UNKNOWN": 0.173,
+                "KOREAN": 0.063
+            }
+        },
+        {
+            "song_name": "Bet You Wanna",
+            "debut_date": "10/17/20",
+            "peak_position": 25,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 4,
+            "lang_percent": {
+                "ENGLISH": 0.999,
+                "UNKNOWN": 0.001
+            }
+        },
+        {
+            "song_name": "Hard To Love",
+            "debut_date": "10/01/22",
+            "peak_position": 27,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 2,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Pretty Savage",
+            "debut_date": "10/17/20",
+            "peak_position": 32,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 5,
+            "lang_percent": {
+                "ENGLISH": 0.928,
+                "UNKNOWN": 0.043,
+                "KOREAN": 0.029
+            }
+        },
+        {
+            "song_name": "The Happiest Girl",
+            "debut_date": "10/01/22",
+            "peak_position": 34,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Yeah Yeah Yeah",
+            "debut_date": "10/01/22",
+            "peak_position": 43,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "UNKNOWN": 0.615,
+                "KOREAN": 0.385
+            }
+        },
+        {
+            "song_name": "Crazy Over You",
+            "debut_date": "10/17/20",
+            "peak_position": 49,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 2,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Tally",
+            "debut_date": "10/01/22",
+            "peak_position": 52,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Love To Hate Me",
+            "debut_date": "10/17/20",
+            "peak_position": 54,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 2,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Ready For Love",
+            "debut_date": "8/13/22",
+            "peak_position": 60,
+            "peak_date": "10/01/22",
+            "weeks_on_chart": 2,
+            "lang_percent": {
+                "ENGLISH": 0.592,
+                "KOREAN": 0.244,
+                "UNKNOWN": 0.164
+            }
+        },
+        {
+            "song_name": "You Never Know",
+            "debut_date": "10/17/20",
+            "peak_position": 64,
+            "peak_date": "10/17/20",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "ENGLISH": 0.889,
+                "KOREAN": 0.085,
+                "UNKNOWN": 0.027
+            }
+        },
+        {
+            "song_name": "The Girls",
+            "debut_date": "9/09/23",
+            "peak_position": 69,
+            "peak_date": "9/09/23",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "ENGLISH": 1.0
+            }
+        },
+        {
+            "song_name": "Ddu-du Ddu-du",
+            "debut_date": "10/31/20",
+            "peak_position": 158,
+            "peak_date": "10/31/20",
+            "weeks_on_chart": 2,
+            "lang_percent": {
+                "ENGLISH": 0.942,
+                "KOREAN": 0.039,
+                "UNKNOWN": 0.018
+            }
+        },
+        {
+            "song_name": "Kill This Love",
+            "debut_date": "10/31/20",
+            "peak_position": 181,
+            "peak_date": "10/31/20",
+            "weeks_on_chart": 1,
+            "lang_percent": {
+                "ENGLISH": 0.838,
+                "UNKNOWN": 0.127,
+                "KOREAN": 0.035
+            }
+        }
+    ]
+}

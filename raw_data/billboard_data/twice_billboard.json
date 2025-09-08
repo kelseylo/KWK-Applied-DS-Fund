@@ -1,0 +1,82 @@
+{
+    "name": "TWICE",
+    "billboard_data": [
+        {
+            "song_name": "The Feels",
+            "debut_date": "10/16/21",
+            "peak_position": 12,
+            "peak_date": "10/16/21",
+            "weeks_on_chart": 22
+        },
+        {
+            "song_name": "Talk That Talk",
+            "debut_date": "9/10/22",
+            "peak_position": 18,
+            "peak_date": "9/10/22",
+            "weeks_on_chart": 10
+        },
+        {
+            "song_name": "Moonlight Sunrise",
+            "debut_date": "2/04/23",
+            "peak_position": 22,
+            "peak_date": "2/04/23",
+            "weeks_on_chart": 4
+        },
+        {
+            "song_name": "Set Me Free",
+            "debut_date": "3/25/23",
+            "peak_position": 28,
+            "peak_date": "3/25/23",
+            "weeks_on_chart": 4
+        },
+        {
+            "song_name": "I Can't Stop Me",
+            "debut_date": "11/07/20",
+            "peak_position": 31,
+            "peak_date": "11/14/20",
+            "weeks_on_chart": 15
+        },
+        {
+            "song_name": "This Is For",
+            "debut_date": "7/26/25",
+            "peak_position": 38,
+            "peak_date": "7/26/25",
+            "weeks_on_chart": 4
+        },
+        {
+            "song_name": "I Got You",
+            "debut_date": "2/17/24",
+            "peak_position": 38,
+            "peak_date": "2/17/24",
+            "weeks_on_chart": 1
+        },
+        {
+            "song_name": "Alcohol-Free",
+            "debut_date": "6/19/21",
+            "peak_position": 41,
+            "peak_date": "6/26/21",
+            "weeks_on_chart": 8
+        },
+        {
+            "song_name": "Strategy",
+            "debut_date": "12/21/24",
+            "peak_position": 48,
+            "peak_date": "12/21/24",
+            "weeks_on_chart": 13
+        },
+        {
+            "song_name": "Scientist",
+            "debut_date": "11/27/21",
+            "peak_position": 52,
+            "peak_date": "11/27/21",
+            "weeks_on_chart": 3
+        },
+        {
+            "song_name": "One Spark",
+            "debut_date": "3/09/24",
+            "peak_position": 93,
+            "peak_date": "3/09/24",
+            "weeks_on_chart": 3
+        }
+    ]
+}
