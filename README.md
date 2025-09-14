@@ -1,4 +1,4 @@
-# KWK-Applied-DS-Fund
+# Globalization-of-Kpop
 
 The focus of this project explores the globalization of the Korean popular music (K-pop) through the language composition of songs overtime and analyzes the sentiment composition of these songs. As K-pop expands into the international market, its culture has impacted the world and the world has also left an impression in the Korean culture. This project analyzes the industry’s linguistic and sentimental shift overtime. It is important to study the globalization of K-pop as K-pop serves as a medium for cross-culture communication. The ideologies, history, fashion, expression, and countless elements of the Korean culture are exchanged with the world. This fosters a global sense of community across people of diverse backgrounds. Through kpop, people from all countries in the world can connect with each other common interests. 
 
