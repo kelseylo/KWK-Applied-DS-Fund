@@ -10,7 +10,7 @@ Various Python packages were utilized in this project.
 - The packages used for processing the data: pycld2, deep_translator, nltk (Natural Language Toolkit).
 - The packages used for plotting and visualization of data: seaborn, matplotlib, pandas, NumPy. 
 
-The majority of the program was created by the myself, but there were a couple of areas that were AI assisted code. The areas that were assisted by AI or outside sources are: getting the token in collecting_data.ipynb, sorting the language composition by value in processing_data.ipynb, and formatting the x-axis from ordinal to formatted dates in visualizing_data.ipynb. The code segments that are AI assisted or from outside sources are identified by comments in the code cell. 
+The majority of the program was created by myself, but there were a couple of areas that were AI assisted or sourced from outside code. The areas that were assisted by AI or outside sources are: getting the token in collecting_data.ipynb, sorting the language composition by value in processing_data.ipynb, and formatting the x-axis from ordinal to formatted dates in visualizing_data.ipynb. The code segments that are AI assisted or from outside sources are identified by comments in the code cell. 
 
 The data files are manually moved to specific directories after they have been created. It is indicated in the code cell of the new directory the saved files are moved to. 
 
